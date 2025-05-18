@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f858b4fc26e441544bc618d735156dbc, type: 3}
+  m_Name: Rusty Dagger
+  m_EditorClassIdentifier: 
+  itemName: Rusty Dagger
+  itemIcon: {fileID: 0}
+  itemDescription: Found on the floor.
+  price: 0
+  itemID: ddd84a2a34437b64aaee2b6ca3f8b841
+  minDamage: 1
+  maxDamage: 1
+  critDamage: 2
+  holdingImage: {fileID: 21300000, guid: 8b0d330f4b8ec294e9f704342ff78eeb, type: 3}
+  animatorOverride: {fileID: 22100000, guid: 16dcbd83c010b5a45ad5c5281c099f5d, type: 2}
+  attackSpeed: 1.4

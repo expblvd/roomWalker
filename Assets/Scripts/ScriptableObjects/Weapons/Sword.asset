@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f858b4fc26e441544bc618d735156dbc, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemIcon: {fileID: 21300000, guid: f2fb9ee7ce81ddd4592e40e5cef274fe, type: 3}
+  itemDescription: Sturdy Sword
+  soundOnUse: {fileID: 0}
+  price: 0
+  ID: 21
+  minDamage: 2
+  maxDamage: 3
+  critDamage: 5
+  holdingImage: {fileID: 21300000, guid: f2fb9ee7ce81ddd4592e40e5cef274fe, type: 3}
+  animatorOverride: {fileID: 22100000, guid: 669993f9063bbd140b8989800d2d406c, type: 2}
+  attackSpeed: 1
