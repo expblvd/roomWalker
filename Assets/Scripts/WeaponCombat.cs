@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Linq.Expressions;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class WeaponCombat : MonoBehaviour
 {
@@ -17,10 +19,16 @@ public class WeaponCombat : MonoBehaviour
 
     public bool coolingDown;
     public bool isBlocking;
+    public bool isBlockFatigued;
     public float attackCoolDown;
     public float blockCoolDown;
     public float blockTime;
+    public float blockLength;
+    public float blockRecoverSpeed;
 
+    public Image blockStaminaUIBar;
+
+    Direction lastDirection;
 
     public enum Direction{
         Left,
@@ -30,36 +38,72 @@ public class WeaponCombat : MonoBehaviour
 
     public Direction currentDirection;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
+    void Start() {
         anim = GetComponent<WeaponHandler>().animator;
         player = GameObject.Find("Player");
+        blockTime = blockLength;
     }
 
     Direction GetInputDirection(){
-        
+
         if(Input.GetKey(KeyCode.A)) return Direction.Left;
         if(Input.GetKey(KeyCode.D)) return Direction.Right;
         return Direction.Center;
     }
 
     // Update is called once per frame
-    void Update()
-    {
+    void Update() {
 
-        if(Input.GetMouseButtonDown(0) && !coolingDown){
+        if (Input.GetMouseButtonDown(0) && !coolingDown) {
             Attack();
             coolingDown = true;
             //StartCoroutine(CoolDown(attackCoolDown));
         }
 
-        if(Input.GetMouseButtonDown(1) && !coolingDown){
+        if (Input.GetMouseButton(1) && !isBlockFatigued) {
             Block();
             GetComponentInChildren<WeaponAnimationEvents>().StopAllCoroutines();
-            Debug.Log(transform.rotation.y);
-            coolingDown = true;
+            blockTime -= Time.deltaTime;
+            StopAllCoroutines();
             //StartCoroutine(CoolDown(blockCoolDown));
         }
+
+        if (Input.GetMouseButtonUp(1)) {
+            anim.SetBool("isBlocking", false);
+        }
+
+        if (!isBlocking && !isBlockFatigued && blockTime < blockLength) {
+            blockTime += (blockRecoverSpeed * 1.5f) * Time.deltaTime;
+        }
+
+        if (blockTime <= 0) {
+            StartCoroutine(RecoverBlock());
+            anim.SetBool("isBlocking", false);
+        }
+
+        currentDirection = GetInputDirection();
+        if (lastDirection != currentDirection) {
+            anim.SetInteger("currentDirection", (int)currentDirection);
+            lastDirection = currentDirection;
+        }
+
+        blockStaminaUIBar.fillAmount = Mathf.Clamp01(blockTime / blockLength);
+    }
+
+    IEnumerator RecoverBlock() {
+        float i = 0f;
+        isBlockFatigued = true;
+        blockStaminaUIBar.color = new Color(1, 0, 0);
+        while (i < blockLength) {
+
+            i += blockRecoverSpeed * Time.deltaTime;
+            blockTime = i;
+            yield return null; // Waits 1 frame before continuing the loop
+        }
+
+        blockTime = blockLength; // Ensure it ends exactly at the target
+        isBlockFatigued = false;
+        blockStaminaUIBar.color = new Color(0, 1, 0);
     }
 
     void Attack(){
@@ -101,24 +145,22 @@ public class WeaponCombat : MonoBehaviour
         }
     }
 
-    void Block(){
+    void Block() {
         Direction dir = GetInputDirection();
-        switch (dir){
+        switch (dir) {
             case Direction.Left:
-                anim.SetTrigger("BlockLeft");
                 currentDirection = Direction.Left;
-            break;
+                break;
 
             case Direction.Right:
-                anim.SetTrigger("BlockRight");
                 currentDirection = Direction.Right;
-            break;
+                break;
 
             case Direction.Center:
-                anim.SetTrigger("BlockCenter");
                 currentDirection = Direction.Center;
-            break;
+                break;
         }
+        anim.SetBool("isBlocking", true);
     }
     /*
     IEnumerator CoolDown(float coolDownPeriod){

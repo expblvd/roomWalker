@@ -36,7 +36,7 @@ public class JasonTheBoxer : EnemyBase
                 break;
         }
         audioSource.PlayOneShot(attackSounds[Random.Range(0,attackSounds.Length)]);
-        
+
     }
 
     IEnumerator Barrage(){
@@ -110,7 +110,7 @@ public class JasonTheBoxer : EnemyBase
         FindFirstObjectByType<CameraControls>().enabled = false;
         yield return new WaitForSecondsRealtime(duration); // Realtime, so it's not affected by timescale
         Time.timeScale = 1f;
-        FindFirstObjectByType<CameraControls>().enabled = true;
+        FindFirstObjectByType<CameraControls>().enabled = true;//brings back player camera control.
     }
 
     //Perish or Get Destroyed if an inanimate object(Barrel, Box, Etc;)
@@ -124,6 +124,6 @@ public class JasonTheBoxer : EnemyBase
         animator.SetTrigger("Die");
         isStunned = true;
         DropLoot();
-        Time.timeScale = 0.2f;
+        //Time.timeScale = 0.2f;
     }
 }
