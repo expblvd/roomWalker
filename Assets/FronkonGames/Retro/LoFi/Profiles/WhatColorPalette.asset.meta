@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bd0f97799805c64bbb70111ec02da12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/WhatColorPalette.asset
+  uploadId: 751688

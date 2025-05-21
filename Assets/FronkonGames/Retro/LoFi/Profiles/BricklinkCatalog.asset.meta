@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30b1c752eb2d3484a9a93df09df5476d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/BricklinkCatalog.asset
+  uploadId: 751688

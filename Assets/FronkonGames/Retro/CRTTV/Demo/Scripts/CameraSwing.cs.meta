@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3526b839d7e69264e80a0d4bfce0ad4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Demo/Scripts/CameraSwing.cs
+  uploadId: 751711

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Starry13
+  m_EditorClassIdentifier: 
+  title: starry13
+  colors:
+  - {r: 0.3019608, g: 0.27058825, b: 0.42745098, a: 1}
+  - {r: 0.3529412, g: 0.37254903, b: 0.57254905, a: 1}
+  - {r: 0.4745098, g: 0.3254902, b: 0.5372549, a: 1}
+  - {r: 0.39607844, g: 0.48235294, b: 0.6392157, a: 1}
+  - {r: 0.6431373, g: 0.38431373, b: 0.5411765, a: 1}
+  - {r: 0.49019608, g: 0.49019608, b: 0.7176471, a: 1}
+  - {r: 0.48235294, g: 0.6313726, b: 0.67058825, a: 1}
+  - {r: 0.827451, g: 0.52156866, b: 0.58431375, a: 1}
+  - {r: 0.6784314, g: 0.5882353, b: 0.8117647, a: 1}
+  - {r: 0.68235296, g: 0.7764706, b: 0.64705884, a: 1}
+  - {r: 0.9137255, g: 0.654902, b: 0.6392157, a: 1}
+  - {r: 0.9019608, g: 0.6784314, b: 0.8666667, a: 1}
+  - {r: 0.9411765, g: 0.84313726, b: 0.69411767, a: 1}
+  tags:
+  - artist
+  - cold
+  - desaturated
+  - colorful
+  - versatile
+  likes: 75

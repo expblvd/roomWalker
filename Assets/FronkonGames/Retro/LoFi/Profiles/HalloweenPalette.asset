@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: HalloweenPalette
+  m_EditorClassIdentifier: 
+  title: Halloween Palette
+  colors:
+  - {r: 0.09019608, g: 0.07450981, b: 0.09411765, a: 1}
+  - {r: 0.16078432, g: 0.105882354, b: 0.09019608, a: 1}
+  - {r: 0.23137255, g: 0.11372549, b: 0.21176471, a: 1}
+  - {r: 0.34509805, g: 0.21176471, b: 0.22352941, a: 1}
+  - {r: 0.34901962, g: 0.34509805, b: 0.3019608, a: 1}
+  - {r: 0.6, g: 0.54509807, b: 0.45490196, a: 1}
+  - {r: 0.63529414, g: 0.6392157, b: 0.8627451, a: 1}
+  tags:
+  - skeddles
+  - halloween
+  - spooky
+  - calm
+  likes: 68

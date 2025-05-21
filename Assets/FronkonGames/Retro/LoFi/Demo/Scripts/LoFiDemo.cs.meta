@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34ced70caa14f164a9ab549b3dc985e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Demo/Scripts/LoFiDemo.cs
+  uploadId: 751688

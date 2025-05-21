@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: 2bitDemichrome
+  m_EditorClassIdentifier: 
+  title: 2bit demichrome
+  colors:
+  - {r: 0.12941177, g: 0.11764706, b: 0.1254902, a: 1}
+  - {r: 0.33333334, g: 0.33333334, b: 0.40784314, a: 1}
+  - {r: 0.627451, g: 0.627451, b: 0.54509807, a: 1}
+  - {r: 0.9137255, g: 0.9372549, b: 0.9254902, a: 1}
+  tags:
+  - 30pixels
+  - BitBits
+  - 2bit
+  - greyscale
+  - grayscale
+  - gameboy
+  likes: 774

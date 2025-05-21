@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Cataclysm10
+  m_EditorClassIdentifier: 
+  title: Cataclysm 10
+  colors:
+  - {r: 0.09019608, g: 0.05490196, b: 0.13333334, a: 1}
+  - {r: 0.20392157, g: 0.039215688, b: 0.16470589, a: 1}
+  - {r: 0.17254902, g: 0.14117648, b: 0.16862746, a: 1}
+  - {r: 0.4627451, g: 0.039215688, b: 0.19607843, a: 1}
+  - {r: 0.7411765, g: 0.101960786, b: 0.16470589, a: 1}
+  - {r: 0.40784314, g: 0.28627452, b: 0.32941177, a: 1}
+  - {r: 0.9019608, g: 0.2901961, b: 0.2627451, a: 1}
+  - {r: 0.69411767, g: 0.5058824, b: 0.49019608, a: 1}
+  - {r: 0.94509804, g: 0.6392157, b: 0.4862745, a: 1}
+  - {r: 0.8352941, g: 0.7294118, b: 0.63529414, a: 1}
+  tags: []
+  likes: 25

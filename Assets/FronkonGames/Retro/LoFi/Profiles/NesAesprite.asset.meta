@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1b567059c6492942927148bffe800fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NesAesprite.asset
+  uploadId: 751688

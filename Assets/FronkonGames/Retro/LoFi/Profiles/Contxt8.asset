@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Contxt8
+  m_EditorClassIdentifier: 
+  title: contxt 8
+  colors:
+  - {r: 0.14509805, g: 0.12941177, b: 0.16862746, a: 1}
+  - {r: 0.21176471, g: 0.1882353, b: 0.20392157, a: 1}
+  - {r: 0.31764707, g: 0.24705882, b: 0.22352941, a: 1}
+  - {r: 0.4862745, g: 0.36862746, b: 0.29411766, a: 1}
+  - {r: 0.45882353, g: 0.52156866, b: 0.5411765, a: 1}
+  - {r: 0.7137255, g: 0.67058825, b: 0.5647059, a: 1}
+  - {r: 0.87058824, g: 0.7529412, b: 0.6117647, a: 1}
+  - {r: 0.92941177, g: 0.9137255, b: 0.7921569, a: 1}
+  tags: []
+  likes: 19

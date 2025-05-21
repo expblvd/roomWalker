@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Fartgator07
+  m_EditorClassIdentifier: 
+  title: fartgator 07
+  colors:
+  - {r: 0.078431375, g: 0.07058824, b: 0.078431375, a: 1}
+  - {r: 0.2, g: 0.2509804, b: 0.18039216, a: 1}
+  - {r: 0.3019608, g: 0.36862746, b: 0.36862746, a: 1}
+  - {r: 0.28235295, g: 0.5176471, b: 0.3882353, a: 1}
+  - {r: 0.62352943, g: 0.72156864, b: 0.27450982, a: 1}
+  - {r: 0.91764706, g: 0.7490196, b: 0.35686275, a: 1}
+  - {r: 1, g: 1, b: 0.8784314, a: 1}
+  tags: []
+  likes: 13

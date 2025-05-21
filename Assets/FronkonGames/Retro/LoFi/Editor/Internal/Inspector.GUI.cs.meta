@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b52abf849d9d716458097dd29c5e696f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Editor/Internal/Inspector.GUI.cs
+  uploadId: 751688

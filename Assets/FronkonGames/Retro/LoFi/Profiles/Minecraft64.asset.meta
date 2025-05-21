@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 663c063d9fc2c8543bd8a2f611b52a13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Minecraft64.asset
+  uploadId: 751688

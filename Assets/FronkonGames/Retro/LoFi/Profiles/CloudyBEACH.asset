@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CloudyBEACH
+  m_EditorClassIdentifier: 
+  title: CLOUDY BEACH
+  colors:
+  - {r: 0.09411765, g: 0.09019608, b: 0.08235294, a: 1}
+  - {r: 0.22352941, g: 0.25490198, b: 0.27058825, a: 1}
+  - {r: 0.627451, g: 0.41960785, b: 0.18431373, a: 1}
+  - {r: 0.32156864, g: 0.44313726, b: 0.52156866, a: 1}
+  - {r: 0.4, g: 0.4509804, b: 0.4745098, a: 1}
+  - {r: 0.79607844, g: 0.6313726, b: 0.28627452, a: 1}
+  - {r: 0.94509804, g: 0.8901961, b: 0.6901961, a: 1}
+  - {r: 0.8784314, g: 0.8862745, b: 0.9137255, a: 1}
+  tags:
+  - landscape
+  - nature
+  - beach
+  likes: 14

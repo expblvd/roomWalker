@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 1a2d11afd9ae78140800990b0d95b4f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fronkon Games
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a893c4ea767c7f48bfe1f0143e3e2d2, type: 3}
+  - {fileID: 12800000, guid: 9f82b1abe25b7f94792099bbac4f27f3, type: 3}
+  - {fileID: 12800000, guid: 1f2d176c6b28b2f499c4fe5abbd82b25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Editor/Internal/FronkonGames-Black.otf
+  uploadId: 751711

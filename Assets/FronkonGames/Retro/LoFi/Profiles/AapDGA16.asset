@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: AapDGA16
+  m_EditorClassIdentifier: 
+  title: AAP DGA16
+  colors:
+  - {r: 0.003921569, g: 0.003921569, b: 0.003921569, a: 1}
+  - {r: 0.44705883, g: 0.047058824, b: 0.039215688, a: 1}
+  - {r: 0.011764706, g: 0.105882354, b: 0.45882353, a: 1}
+  - {r: 0.0627451, g: 0.54901963, b: 0, a: 1}
+  - {r: 0.2901961, g: 0.28235295, b: 0.25882354, a: 1}
+  - {r: 0.69803923, g: 0.31764707, b: 0.08627451, a: 1}
+  - {r: 0.42352942, g: 0.10980392, b: 0.61960787, a: 1}
+  - {r: 0.043137256, g: 0.3882353, b: 0.76862746, a: 1}
+  - {r: 0.60784316, g: 0.80784315, b: 0, a: 1}
+  - {r: 0.9098039, g: 0.61960787, b: 0, a: 1}
+  - {r: 0.09019608, g: 0.73333335, b: 0.827451, a: 1}
+  - {r: 0.72156864, g: 0.6901961, b: 0.65882355, a: 1}
+  - {r: 0.4509804, g: 0.9607843, b: 0.8352941, a: 1}
+  - {r: 0.99607843, g: 0.9490196, b: 0.33333334, a: 1}
+  - {r: 1, g: 0.48235294, b: 0.85882354, a: 1}
+  - {r: 1, g: 1, b: 0.99607843, a: 1}
+  tags:
+  - artist
+  - adigunpolack
+  - dga16
+  - cga
+  - ega
+  - msdos
+  - dos
+  - dosgaming
+  - dosgame
+  - 16
+  - 16colors
+  likes: 26

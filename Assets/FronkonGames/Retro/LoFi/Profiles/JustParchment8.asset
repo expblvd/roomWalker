@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: JustParchment8
+  m_EditorClassIdentifier: 
+  title: JustParchment8
+  colors:
+  - {r: 0.16078432, g: 0.14117648, b: 0.09411765, a: 1}
+  - {r: 0.32156864, g: 0.28235295, b: 0.22352941, a: 1}
+  - {r: 0.4509804, g: 0.39607844, b: 0.2901961, a: 1}
+  - {r: 0.54509807, g: 0.49019608, b: 0.38431373, a: 1}
+  - {r: 0.6431373, g: 0.5529412, b: 0.41568628, a: 1}
+  - {r: 0.7411765, g: 0.64705884, b: 0.5137255, a: 1}
+  - {r: 0.8039216, g: 0.7294118, b: 0.5803922, a: 1}
+  - {r: 0.9019608, g: 0.80784315, b: 0.6745098, a: 1}
+  tags:
+  - parchment
+  - paper
+  - ink
+  - old
+  - drawing
+  - map
+  - scroll
+  - page
+  - book
+  - monoramp
+  likes: 633

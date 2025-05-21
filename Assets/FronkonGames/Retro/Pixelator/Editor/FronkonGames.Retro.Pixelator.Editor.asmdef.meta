@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8ee543cb4d2ba84089e6e5973290da7
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Editor/FronkonGames.Retro.Pixelator.Editor.asmdef
+  uploadId: 758029

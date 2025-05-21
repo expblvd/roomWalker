@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Sketchy8New
+  m_EditorClassIdentifier: 
+  title: sketchy 8 New
+  colors:
+  - {r: 0.13725491, g: 0.13725491, b: 0.18039216, a: 1}
+  - {r: 0.22745098, g: 0.19607843, b: 0.23529412, a: 1}
+  - {r: 0.41960785, g: 0.32156864, b: 0.34509805, a: 1}
+  - {r: 0.6392157, g: 0.4509804, b: 0.4392157, a: 1}
+  - {r: 0.7607843, g: 0.49803922, b: 0.43529412, a: 1}
+  - {r: 0.8, g: 0.654902, b: 0.58431375, a: 1}
+  - {r: 0.84313726, g: 0.75686276, b: 0.7058824, a: 1}
+  - {r: 0.87058824, g: 0.8156863, b: 0.78039217, a: 1}
+  tags:
+  - coffee
+  - soft
+  - brown
+  - yellow
+  - monoramp
+  - pastel
+  - sketch
+  likes: 37

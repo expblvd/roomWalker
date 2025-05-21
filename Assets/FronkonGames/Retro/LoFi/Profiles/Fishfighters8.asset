@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Fishfighters8
+  m_EditorClassIdentifier: 
+  title: fishfighters8
+  colors:
+  - {r: 0.11764706, g: 0.15294118, b: 0.2, a: 1}
+  - {r: 0.25882354, g: 0.21960784, b: 0.20392157, a: 1}
+  - {r: 0.31764707, g: 0.25882354, b: 0.34117648, a: 1}
+  - {r: 0.28627452, g: 0.42352942, b: 0.53333336, a: 1}
+  - {r: 0.627451, g: 0.41568628, b: 0.46666667, a: 1}
+  - {r: 0.4862745, g: 0.63529414, b: 0.5882353, a: 1}
+  - {r: 0.8627451, g: 0.6745098, b: 0.49803922, a: 1}
+  - {r: 0.8901961, g: 0.8666667, b: 0.80784315, a: 1}
+  tags:
+  - artist
+  - desaturated
+  - versatile
+  likes: 54

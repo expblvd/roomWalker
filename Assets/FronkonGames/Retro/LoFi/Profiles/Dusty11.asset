@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Dusty11
+  m_EditorClassIdentifier: 
+  title: Dusty 11
+  colors:
+  - {r: 0.18039216, g: 0.15686275, b: 0.19215687, a: 1}
+  - {r: 0.19607843, g: 0.39607844, b: 0.6, a: 1}
+  - {r: 0.5764706, g: 0.2784314, b: 0.42745098, a: 1}
+  - {r: 0.40392157, g: 0.42352942, b: 0.49411765, a: 1}
+  - {r: 0.4862745, g: 0.7294118, b: 0.2509804, a: 1}
+  - {r: 0.8666667, g: 0.54509807, b: 0.43529412, a: 1}
+  - {r: 0.4117647, g: 0.654902, b: 0.95686275, a: 1}
+  - {r: 0.6431373, g: 0.69803923, b: 0.7137255, a: 1}
+  - {r: 0.9607843, g: 0.85882354, b: 0.40784314, a: 1}
+  - {r: 0.6156863, g: 0.8745098, b: 0.99215686, a: 1}
+  - {r: 0.9764706, g: 0.9647059, b: 0.92156863, a: 1}
+  tags: []
+  likes: 18

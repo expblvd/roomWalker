@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BloodshotSun
+  m_EditorClassIdentifier: 
+  title: Bloodshot sun
+  colors:
+  - {r: 0.078431375, g: 0.11372549, b: 0.11372549, a: 1}
+  - {r: 0.23921569, g: 0.16862746, b: 0.18039216, a: 1}
+  - {r: 0.44705883, g: 0.2509804, b: 0.21960784, a: 1}
+  - {r: 0.43529412, g: 0.1882353, b: 0.30980393, a: 1}
+  - {r: 0.4627451, g: 0.27450982, b: 0.29803923, a: 1}
+  - {r: 0.69411767, g: 0.19215687, b: 0.22745098, a: 1}
+  - {r: 0.60784316, g: 0.29803923, b: 0.22352941, a: 1}
+  - {r: 0.64705884, g: 0.27058825, b: 0.42352942, a: 1}
+  - {r: 0.7411765, g: 0.4392157, b: 0.32941177, a: 1}
+  - {r: 0.7372549, g: 0.31764707, b: 0.4862745, a: 1}
+  - {r: 0.7294118, g: 0.44705883, b: 0.50980395, a: 1}
+  - {r: 0.8666667, g: 0.60784316, b: 0.6156863, a: 1}
+  - {r: 0.85490197, g: 0.5686275, b: 0.70980394, a: 1}
+  - {r: 1, g: 0.87058824, b: 0.8862745, a: 1}
+  tags:
+  - red
+  - spooky
+  - blood
+  - scary
+  likes: 44

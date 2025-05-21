@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 002b1fe601264054599f26b21f186505
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fronkon Games
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a5d99d17483ed743b5bcb3e7521e88b, type: 3}
+  - {fileID: 12800000, guid: 9beb87598469ee74da1353d5795b5bb3, type: 3}
+  - {fileID: 12800000, guid: 4bbdb00b99f05cb48952e3dab0c8a5e6, type: 3}
+  - {fileID: 12800000, guid: 20896b343e9adb843a0dee6cebfc1845, type: 3}
+  - {fileID: 12800000, guid: 950efecc6bef2754f8e003f577686c78, type: 3}
+  - {fileID: 12800000, guid: 6f783337bd5c66645b5326b2f448c0f5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Editor/Internal/FronkonGames-Black.otf
+  uploadId: 751688

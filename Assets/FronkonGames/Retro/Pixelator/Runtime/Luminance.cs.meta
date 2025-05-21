@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40213fd515900c440951a2ffb9c0645d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Runtime/Luminance.cs
+  uploadId: 758029

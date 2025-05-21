@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e437dc8f207ebb940afe57370d69eee3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Demo/Scripts/PixelatorDemo.cs
+  uploadId: 758029

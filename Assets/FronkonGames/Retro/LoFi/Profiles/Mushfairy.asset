@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Mushfairy
+  m_EditorClassIdentifier: 
+  title: Mushfairy
+  colors:
+  - {r: 0.15294118, g: 0.13725491, b: 0.29803923, a: 1}
+  - {r: 0, g: 0.45882353, b: 0.50980395, a: 1}
+  - {r: 0.13333334, g: 0.3137255, b: 0.5686275, a: 1}
+  - {r: 0.4509804, g: 0.23529412, b: 0.4862745, a: 1}
+  - {r: 0.9490196, g: 0.3137255, b: 0.29411766, a: 1}
+  - {r: 0.22352941, g: 0.72156864, b: 0.6392157, a: 1}
+  - {r: 0.827451, g: 0.827451, b: 0.4862745, a: 1}
+  - {r: 0.9098039, g: 0.5529412, b: 0.7647059, a: 1}
+  - {r: 0.69803923, g: 0.5882353, b: 1, a: 1}
+  - {r: 0.8666667, g: 0.89411765, b: 1, a: 1}
+  tags:
+  - pastel
+  - mushroom
+  - fungi
+  - ascii
+  - textmode
+  likes: 71

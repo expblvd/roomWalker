@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Linq.Expressions;
 using Unity.VisualScripting;
+using UnityEditor.Rendering.Universal.ShaderGraph;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,6 +12,9 @@ public class WeaponCombat : MonoBehaviour
 
     public Camera playerCamera;
     public GameObject player;
+
+    public AudioSource audioSource;
+    public AudioClip weaponWoosh;
 
     public int minDamage;
     public int maxDamage;
@@ -30,7 +34,13 @@ public class WeaponCombat : MonoBehaviour
 
     Direction lastDirection;
 
-    public enum Direction{
+    public float blockStartTimer;
+    public float blockTapLength;
+
+    public Color blockMeterColorFull;
+    public Color blockMeterColorFatigued;
+
+    public enum Direction {
         Left,
         Right,
         Center
@@ -44,32 +54,57 @@ public class WeaponCombat : MonoBehaviour
         blockTime = blockLength;
     }
 
-    Direction GetInputDirection(){
-
-        if(Input.GetKey(KeyCode.A)) return Direction.Left;
-        if(Input.GetKey(KeyCode.D)) return Direction.Right;
-        return Direction.Center;
+    void GetInputDirection() {
+        if (Input.GetKey(KeyCode.A)) currentDirection = Direction.Left;
+        if (Input.GetKey(KeyCode.D)) currentDirection = Direction.Right;
+        if (Input.GetKey(KeyCode.S)) currentDirection = Direction.Center;
+        anim.SetInteger("currentDirection", (int)currentDirection);
     }
 
     // Update is called once per frame
     void Update() {
+        GetInputDirection();
+        if (lastDirection != currentDirection) {
+            audioSource.pitch = Random.Range(0.8f, 1.05f);
+            audioSource.PlayOneShot(weaponWoosh);
+            lastDirection = currentDirection;
+        }
 
         if (Input.GetMouseButtonDown(0) && !coolingDown) {
-            Attack();
-            coolingDown = true;
-            //StartCoroutine(CoolDown(attackCoolDown));
+                Attack();
+                coolingDown = true;
+                //StartCoroutine(CoolDown(attackCoolDown));
+            }
+
+        if (Input.GetMouseButtonDown(1)) {
+            blockStartTimer = 0;
+        }
+
+        if (Input.GetMouseButton(1) && (blockStartTimer >= 0.1f||blockStartTimer == 0)){
+
+            if (lastDirection != currentDirection) {
+                anim.SetInteger("currentDirection", (int)currentDirection);
+                lastDirection = currentDirection;
+            }
         }
 
         if (Input.GetMouseButton(1) && !isBlockFatigued) {
             Block();
             GetComponentInChildren<WeaponAnimationEvents>().StopAllCoroutines();
             blockTime -= Time.deltaTime;
+            blockStartTimer += Time.deltaTime;
             StopAllCoroutines();
             //StartCoroutine(CoolDown(blockCoolDown));
         }
 
         if (Input.GetMouseButtonUp(1)) {
-            anim.SetBool("isBlocking", false);
+            if (blockStartTimer >= blockTapLength) {
+                anim.SetBool("isBlocking", false);
+                blockStartTimer = 0;
+            }
+            else {
+                StartCoroutine(TimedCancelBlock(blockTapLength - blockStartTimer));
+            }
         }
 
         if (!isBlocking && !isBlockFatigued && blockTime < blockLength) {
@@ -81,19 +116,13 @@ public class WeaponCombat : MonoBehaviour
             anim.SetBool("isBlocking", false);
         }
 
-        currentDirection = GetInputDirection();
-        if (lastDirection != currentDirection) {
-            anim.SetInteger("currentDirection", (int)currentDirection);
-            lastDirection = currentDirection;
-        }
-
         blockStaminaUIBar.fillAmount = Mathf.Clamp01(blockTime / blockLength);
     }
 
     IEnumerator RecoverBlock() {
         float i = 0f;
         isBlockFatigued = true;
-        blockStaminaUIBar.color = new Color(1, 0, 0);
+        blockStaminaUIBar.color = blockMeterColorFatigued;
         while (i < blockLength) {
 
             i += blockRecoverSpeed * Time.deltaTime;
@@ -103,11 +132,17 @@ public class WeaponCombat : MonoBehaviour
 
         blockTime = blockLength; // Ensure it ends exactly at the target
         isBlockFatigued = false;
-        blockStaminaUIBar.color = new Color(0, 1, 0);
+        blockStaminaUIBar.color = blockMeterColorFull;
+    }
+
+    IEnumerator TimedCancelBlock(float timeToCancel) {
+        yield return new WaitForSeconds(timeToCancel);
+        anim.SetBool("isBlocking", false);
+        blockStartTimer = 0;
     }
 
     void Attack(){
-        Direction dir = GetInputDirection();
+        //Direction dir = GetInputDirection();
         int chance = Random.Range(0,100);
 
         if(chance >= 0 && chance <= 50){
@@ -119,7 +154,7 @@ public class WeaponCombat : MonoBehaviour
         }
         Debug.Log(currentPlayerDamage);
 
-        switch (dir){
+        switch (currentDirection){
             case Direction.Left:
                 anim.SetTrigger("StabLeft");
                 currentDirection = Direction.Left;
@@ -146,8 +181,8 @@ public class WeaponCombat : MonoBehaviour
     }
 
     void Block() {
-        Direction dir = GetInputDirection();
-        switch (dir) {
+        //Direction dir = GetInputDirection();
+        switch (currentDirection) {
             case Direction.Left:
                 currentDirection = Direction.Left;
                 break;

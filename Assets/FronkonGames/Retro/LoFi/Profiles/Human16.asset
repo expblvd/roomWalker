@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Human16
+  m_EditorClassIdentifier: 
+  title: Human16
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.16862746, g: 0.13725491, b: 0.10980392, a: 1}
+  - {r: 0.29803923, g: 0.20392157, b: 0.16470589, a: 1}
+  - {r: 0, g: 0.61960787, b: 0.4509804, a: 1}
+  - {r: 0, g: 0.44705883, b: 0.69803923, a: 1}
+  - {r: 0.39607844, g: 0.3019608, b: 0.4509804, a: 1}
+  - {r: 0.8352941, g: 0.36862746, b: 0, a: 1}
+  - {r: 0.56078434, g: 0.42745098, b: 0.27058825, a: 1}
+  - {r: 0.9019608, g: 0.62352943, b: 0, a: 1}
+  - {r: 0.6862745, g: 0.57254905, b: 0.44313726, a: 1}
+  - {r: 0.8, g: 0.4745098, b: 0.654902, a: 1}
+  - {r: 0.3372549, g: 0.7058824, b: 0.9137255, a: 1}
+  - {r: 0.9411765, g: 0.89411765, b: 0.25882354, a: 1}
+  - {r: 0.68235296, g: 0.7019608, b: 0.72156864, a: 1}
+  - {r: 0.89411765, g: 0.8156863, b: 0.70980394, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - human
+  - icon
+  - emoji
+  - graph
+  - colorblind
+  - blind
+  - colorblindness
+  - blindness
+  - inclusive
+  - skin
+  - tone
+  - wong
+  - monk
+  - fitzpatrick
+  - 16
+  - people
+  - person
+  likes: 25

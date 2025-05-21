@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1212e0cad153d394a81c49e17348092e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Demo/Settings/Pixelator Demo Universal
+    Render Pipeline Asset_Renderer.asset
+  uploadId: 758029

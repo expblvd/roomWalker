@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: NinetiesNine
+  m_EditorClassIdentifier: 
+  title: Nineties Nine
+  colors:
+  - {r: 0.11764706, g: 0.10980392, b: 0.12941177, a: 1}
+  - {r: 0.07058824, g: 0.52156866, b: 0.13725491, a: 1}
+  - {r: 0.17254902, g: 0.17254902, b: 0.7882353, a: 1}
+  - {r: 0.3882353, g: 0.2627451, b: 0.5529412, a: 1}
+  - {r: 0.7529412, g: 0.13333334, b: 0.31764707, a: 1}
+  - {r: 0.43529412, g: 0.4392157, b: 0.47058824, a: 1}
+  - {r: 0.7882353, g: 0.49019608, b: 0.17254902, a: 1}
+  - {r: 0.6313726, g: 0.53333336, b: 0.7529412, a: 1}
+  - {r: 0.6862745, g: 0.7019608, b: 0.72156864, a: 1}
+  tags:
+  - 90
+  - 90s
+  - 1990
+  - 1990s
+  - nineties
+  - hardware
+  likes: 23

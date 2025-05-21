@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77633e2f6b07dfb4ea3185da8cc09101
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/OriginalGameboy.asset
+  uploadId: 751688

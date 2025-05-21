@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: LightAcademia8
+  m_EditorClassIdentifier: 
+  title: Light Academia 8
+  colors:
+  - {r: 0.16078432, g: 0.11764706, b: 0.08627451, a: 1}
+  - {r: 0.2509804, g: 0.20784314, b: 0.19215687, a: 1}
+  - {r: 0.2784314, g: 0.23529412, b: 0.21176471, a: 1}
+  - {r: 0.4392157, g: 0.18431373, b: 0.24313726, a: 1}
+  - {r: 0.54901963, g: 0.34901962, b: 0.23137255, a: 1}
+  - {r: 0.8509804, g: 0.6745098, b: 0.5176471, a: 1}
+  - {r: 0.8509804, g: 0.75686276, b: 0.7058824, a: 1}
+  - {r: 0.9411765, g: 0.8784314, b: 0.8392157, a: 1}
+  tags:
+  - brown
+  - marron
+  - tan
+  - light
+  - book
+  - academia
+  - light
+  - dark
+  - aesthetic
+  - 7
+  - chase
+  likes: 70

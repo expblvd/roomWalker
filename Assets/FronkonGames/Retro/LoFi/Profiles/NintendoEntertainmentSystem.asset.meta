@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6631ee6212c71d45ae122a3ef5f8c33
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NintendoEntertainmentSystem.asset
+  uploadId: 751688

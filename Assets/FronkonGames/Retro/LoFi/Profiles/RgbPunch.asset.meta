@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8a633fb99dbeb84a8420acc43e89d86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/RgbPunch.asset
+  uploadId: 751688

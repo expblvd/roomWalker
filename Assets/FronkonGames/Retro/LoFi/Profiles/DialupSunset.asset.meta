@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79f597e681bf4cc449e0178b2c100bb5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DialupSunset.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b3bb9ec84a791b43bd3cfc06274606b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SilentFive.asset
+  uploadId: 751688

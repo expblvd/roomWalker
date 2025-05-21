@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: 4Spoopy4U
+  m_EditorClassIdentifier: 
+  title: 4 spoopy 4 u
+  colors:
+  - {r: 0.08235294, g: 0.10980392, b: 0.08235294, a: 1}
+  - {r: 0.3529412, g: 0.32156864, b: 0.101960786, a: 1}
+  - {r: 0.9882353, g: 0.38431373, b: 0.19215687, a: 1}
+  - {r: 0.9882353, g: 0.87058824, b: 0.5176471, a: 1}
+  tags:
+  - halloween
+  - pumpkin
+  likes: 43

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Firestorm
+  m_EditorClassIdentifier: 
+  title: Firestorm
+  colors:
+  - {r: 0.105882354, g: 0.1254902, b: 0.19607843, a: 1}
+  - {r: 0.27450982, g: 0.20392157, b: 0.2901961, a: 1}
+  - {r: 0.99215686, g: 0.29411766, b: 0.20784314, a: 1}
+  - {r: 0.9764706, g: 0.36862746, b: 0.24313726, a: 1}
+  - {r: 0.9254902, g: 0.40392157, b: 0.3372549, a: 1}
+  - {r: 1, g: 0.5176471, b: 0.37254903, a: 1}
+  - {r: 1, g: 0.6313726, b: 0.37254903, a: 1}
+  - {r: 0.99215686, g: 0.87058824, b: 0.52156866, a: 1}
+  - {r: 1, g: 0.9254902, b: 0.7019608, a: 1}
+  tags: []
+  likes: 49

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 743798287e10a3b49a9b2b979f37fc5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/StGameBoyMagma.asset
+  uploadId: 751688

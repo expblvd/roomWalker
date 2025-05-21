@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 891b9662cd751ee45b5ede1ecca56e9b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Runtime/FronkonGames.Retro.LoFi.asmdef
+  uploadId: 751688

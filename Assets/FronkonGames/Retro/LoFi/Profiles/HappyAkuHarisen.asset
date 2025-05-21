@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: HappyAkuHarisen
+  m_EditorClassIdentifier: 
+  title: Happy Aku Harisen
+  colors:
+  - {r: 0.078431375, g: 0.078431375, b: 0.078431375, a: 1}
+  - {r: 0.14901961, g: 0.2509804, b: 0.05882353, a: 1}
+  - {r: 0.09019608, g: 0.19215687, b: 0.23137255, a: 1}
+  - {r: 0.23137255, g: 0.11764706, b: 0.17254902, a: 1}
+  - {r: 0.32156864, g: 0.32156864, b: 0.32156864, a: 1}
+  - {r: 0.4509804, g: 0.27058825, b: 0.3647059, a: 1}
+  - {r: 0.38039216, g: 0.47843137, b: 0.24313726, a: 1}
+  - {r: 0.2901961, g: 0.5019608, b: 0.44705883, a: 1}
+  - {r: 0.59607846, g: 0.7254902, b: 0.45490196, a: 1}
+  - {r: 0.6392157, g: 0.6392157, b: 0.61960787, a: 1}
+  - {r: 0.5176471, g: 0.7411765, b: 0.6431373, a: 1}
+  - {r: 0.72156864, g: 0.54901963, b: 0.63529414, a: 1}
+  - {r: 0.69803923, g: 0.8784314, b: 0.80784315, a: 1}
+  - {r: 0.84313726, g: 1, b: 0.7607843, a: 1}
+  - {r: 0.98039216, g: 0.84313726, b: 0.84313726, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - happyakuharisen
+  - august88888888palettecontest
+  likes: 23

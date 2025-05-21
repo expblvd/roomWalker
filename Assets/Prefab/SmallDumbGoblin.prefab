@@ -1014,7 +1014,7 @@ MonoBehaviour:
   dieSound: {fileID: 8300000, guid: a9c6631562bbc9e418f4f8ad964f73bf, type: 3}
   attackSounds:
   - {fileID: 8300000, guid: 63242275d97cbbb4b93e9fc98f55135b, type: 3}
-  blipSound: {fileID: 8300000, guid: a46557cf4740911418b8f23d8d274efe, type: 3}
+  blipSound: {fileID: 8300000, guid: 5ccb47a9023c7ae4e91949cba2128d1b, type: 3}
   possibleLoot:
   - {fileID: 895047629229113403, guid: a54bb2a4bf4af8d4a8a2cc559640fd11, type: 3}
   lootChance: 45
@@ -1048,10 +1048,10 @@ Rigidbody:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7216011542122128753}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}

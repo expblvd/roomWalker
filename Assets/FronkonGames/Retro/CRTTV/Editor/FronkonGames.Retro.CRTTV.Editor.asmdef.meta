@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8db4d34fdbf4b004aa3c50eaa3378182
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Editor/FronkonGames.Retro.CRTTV.Editor.asmdef
+  uploadId: 751711

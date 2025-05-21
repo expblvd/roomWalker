@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BluebellRot
+  m_EditorClassIdentifier: 
+  title: Bluebell Rot
+  colors:
+  - {r: 0.16862746, g: 0.039215688, b: 0.015686275, a: 1}
+  - {r: 0.2509804, g: 0.13333334, b: 0.003921569, a: 1}
+  - {r: 0.27058825, g: 0.003921569, b: 0.23137255, a: 1}
+  - {r: 0.3882353, g: 0.32156864, b: 0.047058824, a: 1}
+  - {r: 0.3254902, g: 0.16078432, b: 0.5411765, a: 1}
+  - {r: 0.5058824, g: 0.56078434, b: 0.105882354, a: 1}
+  - {r: 0.5254902, g: 0.8, b: 0.34509805, a: 1}
+  - {r: 0.44705883, g: 0.43529412, b: 0.81960785, a: 1}
+  - {r: 0.59607846, g: 0.9019608, b: 0.59607846, a: 1}
+  - {r: 0.6666667, g: 0.87058824, b: 0.98039216, a: 1}
+  - {r: 0.8862745, g: 0.9882353, b: 0.9529412, a: 1}
+  tags: []
+  likes: 9

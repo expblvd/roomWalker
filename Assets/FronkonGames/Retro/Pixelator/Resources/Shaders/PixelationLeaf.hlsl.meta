@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 261f6cf6e23736d408bb5434f57fa44f
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/PixelationLeaf.hlsl
+  uploadId: 758029

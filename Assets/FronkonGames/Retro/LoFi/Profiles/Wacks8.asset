@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Wacks8
+  m_EditorClassIdentifier: 
+  title: Wacks8
+  colors:
+  - {r: 0.039215688, g: 0.05490196, b: 0.2, a: 1}
+  - {r: 0.078431375, g: 0.5882353, b: 0.29803923, a: 1}
+  - {r: 0.78431374, g: 0.13725491, b: 0.16470589, a: 1}
+  - {r: 0.16862746, g: 0.39607844, b: 0.8862745, a: 1}
+  - {r: 0.77254903, g: 0.13725491, b: 0.6745098, a: 1}
+  - {r: 0.94509804, g: 0.8784314, b: 0.21960784, a: 1}
+  - {r: 0.54901963, g: 0.70980394, b: 0.92941177, a: 1}
+  - {r: 0.89411765, g: 0.85882354, b: 0.9411765, a: 1}
+  tags:
+  - 8
+  - vibrant
+  - colorful
+  - playful
+  likes: 29

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d67238ebf333c1f4fbb49044a20a7890
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Bevel.hlsl
+  uploadId: 758029

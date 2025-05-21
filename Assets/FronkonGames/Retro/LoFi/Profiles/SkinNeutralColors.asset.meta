@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7598c81bcb1d4149ba5934d185a8e8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SkinNeutralColors.asset
+  uploadId: 751688

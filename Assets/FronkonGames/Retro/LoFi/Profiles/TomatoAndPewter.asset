@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TomatoAndPewter
+  m_EditorClassIdentifier: 
+  title: tomato and pewter
+  colors:
+  - {r: 0.15686275, g: 0.14117648, b: 0.09803922, a: 1}
+  - {r: 0.28235295, g: 0.2509804, b: 0.2, a: 1}
+  - {r: 0.5058824, g: 0.18039216, b: 0.078431375, a: 1}
+  - {r: 0.3254902, g: 0.32156864, b: 0.30588236, a: 1}
+  - {r: 0.42352942, g: 0.3529412, b: 0.3137255, a: 1}
+  - {r: 0.69411767, g: 0.29411766, b: 0.15686275, a: 1}
+  - {r: 0.43529412, g: 0.42745098, b: 0.38039216, a: 1}
+  - {r: 0.84705883, g: 0.2627451, b: 0.16470589, a: 1}
+  - {r: 0.48235294, g: 0.44313726, b: 0.4392157, a: 1}
+  - {r: 0.54509807, g: 0.5411765, b: 0.42352942, a: 1}
+  - {r: 0.7647059, g: 0.5294118, b: 0.23137255, a: 1}
+  - {r: 0.6156863, g: 0.77254903, b: 0.22352941, a: 1}
+  - {r: 0.827451, g: 0.84313726, b: 0.8784314, a: 1}
+  tags:
+  - tjeeper
+  - metal
+  - blood
+  - poison
+  - tomato
+  - moss
+  - toxic
+  - stone
+  - dark
+  - grim
+  - volcano
+  likes: 33

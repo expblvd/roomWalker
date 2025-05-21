@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: PalletEXE
+  m_EditorClassIdentifier: 
+  title: PALLET EXE
+  colors:
+  - {r: 0.05490196, g: 0.03529412, b: 0.043137256, a: 1}
+  - {r: 0.16862746, g: 0.06666667, b: 0.050980393, a: 1}
+  - {r: 0.14509805, g: 0.09019608, b: 0.09411765, a: 1}
+  - {r: 0.30588236, g: 0.101960786, b: 0.07450981, a: 1}
+  - {r: 0.6392157, g: 0.09411765, b: 0.05882353, a: 1}
+  - {r: 0.9137255, g: 0.043137256, b: 0.043137256, a: 1}
+  tags:
+  - creepy
+  - edgy
+  - bright
+  - red
+  likes: 40

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87ae3d517cf7f18408452f9f81283ae3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/RgbiImproved.asset
+  uploadId: 751688

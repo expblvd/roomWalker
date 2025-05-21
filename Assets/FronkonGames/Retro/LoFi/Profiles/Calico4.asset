@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Calico4
+  m_EditorClassIdentifier: 
+  title: Calico 4
+  colors:
+  - {r: 0.21960784, g: 0.09019608, b: 0.003921569, a: 1}
+  - {r: 0.5764706, g: 0.41568628, b: 0.30588236, a: 1}
+  - {r: 0.9098039, g: 0.627451, b: 0.3254902, a: 1}
+  - {r: 0.9372549, g: 0.92156863, b: 0.8745098, a: 1}
+  tags:
+  - monochrome
+  - 4bit
+  - brown
+  - yellow
+  - cat
+  - calico
+  likes: 35

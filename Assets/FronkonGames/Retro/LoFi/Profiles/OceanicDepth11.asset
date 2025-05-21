@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: OceanicDepth11
+  m_EditorClassIdentifier: 
+  title: Oceanic Depth 11
+  colors:
+  - {r: 0.14901961, g: 0.22352941, b: 0.6, a: 1}
+  - {r: 0.19607843, g: 0.30980393, b: 0.6509804, a: 1}
+  - {r: 0.24313726, g: 0.39607844, b: 0.7019608, a: 1}
+  - {r: 0.36078432, g: 0.41960785, b: 0.6, a: 1}
+  - {r: 0.3019608, g: 0.5137255, b: 0.5803922, a: 1}
+  - {r: 0.24313726, g: 0.6039216, b: 0.5647059, a: 1}
+  - {r: 0.19607843, g: 0.6901961, b: 0.5529412, a: 1}
+  - {r: 0.14901961, g: 0.7764706, b: 0.53333336, a: 1}
+  - {r: 0.3019608, g: 0.4862745, b: 0.7490196, a: 1}
+  - {r: 0.36078432, g: 0.5803922, b: 0.8, a: 1}
+  - {r: 0.9019608, g: 0.65882355, b: 0.18039216, a: 1}
+  tags:
+  - ocean
+  - aqua
+  - cool
+  - blue
+  - green
+  likes: 15

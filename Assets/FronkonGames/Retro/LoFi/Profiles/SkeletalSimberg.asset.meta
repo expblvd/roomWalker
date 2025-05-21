@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69c85afa424db8a4cb019ef6da47b7e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SkeletalSimberg.asset
+  uploadId: 751688

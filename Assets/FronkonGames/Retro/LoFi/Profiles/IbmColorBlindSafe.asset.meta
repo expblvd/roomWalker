@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a167cc1f49a0d61478bacbbcf301954a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/IbmColorBlindSafe.asset
+  uploadId: 751688

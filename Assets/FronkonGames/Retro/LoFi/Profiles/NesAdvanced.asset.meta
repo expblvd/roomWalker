@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d39322c8d1964e4479abda88fedb99d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NesAdvanced.asset
+  uploadId: 751688

@@ -1,0 +1,44 @@
+{
+  "name": "com.fronkongames.retro.pixelator",
+  "version": "1.0.0",
+  "displayName": "Retro: Pixelator",
+  "description": "Unleash stunning retro visuals! Pixelator offers highly customizable pixelation, advanced posterization (RGB, Luminance, HSV & Gamma), and a vast suite of unique color filters from vintage to psychedelic & blueprint effects.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.0"
+  },
+  "keywords": [
+    "retro",
+    "pixelator",
+    "pixelate",
+    "filters",
+    "image effects",
+    "post processing",
+    "color grading",
+    "posterize",
+    "dither",
+    "sepia",
+    "cool blue",
+    "warm filter",
+    "invert color",
+    "hudson",
+    "hefe",
+    "x-pro",
+    "rise",
+    "toaster",
+    "infrared",
+    "thermal",
+    "duotone",
+    "night vision",
+    "pop art",
+    "blueprint",
+    "glitch",
+    "psychedelic",
+    "vintage"
+  ],
+  "author": {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/"
+  }
+} 

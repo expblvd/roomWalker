@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BlueberryIceCream
+  m_EditorClassIdentifier: 
+  title: Blueberry Ice Cream
+  colors:
+  - {r: 0.08235294, g: 0.105882354, b: 0.10980392, a: 1}
+  - {r: 0.16078432, g: 0.27450982, b: 0.29803923, a: 1}
+  - {r: 0.23921569, g: 0.5372549, b: 0.5921569, a: 1}
+  - {r: 0.6666667, g: 0.9490196, b: 1, a: 1}
+  tags: []
+  likes: 18

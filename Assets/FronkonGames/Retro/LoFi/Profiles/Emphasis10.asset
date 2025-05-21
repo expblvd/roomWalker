@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Emphasis10
+  m_EditorClassIdentifier: 
+  title: Emphasis10
+  colors:
+  - {r: 0.050980393, g: 0.023529412, b: 0.07450981, a: 1}
+  - {r: 0.019607844, g: 0.09019608, b: 0.13333334, a: 1}
+  - {r: 0.003921569, g: 0.17254902, b: 0.2627451, a: 1}
+  - {r: 0.06666667, g: 0.29411766, b: 0.3764706, a: 1}
+  - {r: 0.13725491, g: 0.44313726, b: 0.47058824, a: 1}
+  - {r: 0.22352941, g: 0.5803922, b: 0.47058824, a: 1}
+  - {r: 0.34117648, g: 0.7137255, b: 0.49803922, a: 1}
+  - {r: 0.41960785, g: 0.8156863, b: 0.46666667, a: 1}
+  - {r: 0.52156866, g: 0.9098039, b: 0.4745098, a: 1}
+  - {r: 0.62352943, g: 0.9490196, b: 0.43137255, a: 1}
+  tags:
+  - monoramp
+  - green
+  - blue
+  likes: 32

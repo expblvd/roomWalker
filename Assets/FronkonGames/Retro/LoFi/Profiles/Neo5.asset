@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Neo5
+  m_EditorClassIdentifier: 
+  title: NEO 5
+  colors:
+  - {r: 0.05490196, g: 0.05490196, b: 0.05490196, a: 1}
+  - {r: 0.32941177, g: 0.2, b: 0.74509805, a: 1}
+  - {r: 0.9019608, g: 0.14117648, b: 0.6862745, a: 1}
+  - {r: 0.23921569, g: 0.9764706, b: 0.91764706, a: 1}
+  - {r: 0.9372549, g: 0.98039216, b: 0.98039216, a: 1}
+  tags:
+  - Radiaction
+  - neon
+  - neo
+  likes: 118

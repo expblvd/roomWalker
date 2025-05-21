@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ada02e7c3c13c1947aa471af146e8e8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NatureSGrasp.asset
+  uploadId: 751688

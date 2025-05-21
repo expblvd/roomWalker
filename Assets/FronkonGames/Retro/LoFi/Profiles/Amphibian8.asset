@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Amphibian8
+  m_EditorClassIdentifier: 
+  title: Amphibian8
+  colors:
+  - {r: 0.09019608, g: 0.0627451, b: 0.08235294, a: 1}
+  - {r: 0.2, g: 0.14901961, b: 0.15686275, a: 1}
+  - {r: 0.16470589, g: 0.27058825, b: 0.23921569, a: 1}
+  - {r: 0.3882353, g: 0.23137255, b: 0.17254902, a: 1}
+  - {r: 0.2784314, g: 0.41960785, b: 0.25882354, a: 1}
+  - {r: 0.6509804, g: 0.4745098, b: 0.20784314, a: 1}
+  - {r: 0.65882355, g: 0.654902, b: 0.2627451, a: 1}
+  - {r: 0.654902, g: 0.70980394, b: 0.5764706, a: 1}
+  tags:
+  - amphibian
+  - forest
+  - ground
+  - frog
+  - mushroom
+  - low saturation
+  likes: 153

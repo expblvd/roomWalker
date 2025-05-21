@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b7b0937e06406e4a9c8190620c662d0
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Gradient.hlsl
+  uploadId: 758029

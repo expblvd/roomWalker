@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: HauntedWoods
+  m_EditorClassIdentifier: 
+  title: Haunted Woods
+  colors:
+  - {r: 0.03529412, g: 0, b: 0.101960786, a: 1}
+  - {r: 0, g: 0.09019608, b: 0.1882353, a: 1}
+  - {r: 0.2, g: 0.18431373, b: 0.08627451, a: 1}
+  - {r: 0.09803922, g: 0.16470589, b: 0.2784314, a: 1}
+  - {r: 0.15294118, g: 0.21568628, b: 0.27450982, a: 1}
+  - {r: 0.19607843, g: 0.2901961, b: 0.27450982, a: 1}
+  - {r: 0.39215687, g: 0.45882353, b: 0.48235294, a: 1}
+  - {r: 0.5882353, g: 0.45490196, b: 0.42745098, a: 1}
+  - {r: 0.70980394, g: 0.44313726, b: 0.3882353, a: 1}
+  - {r: 0.54901963, g: 0.6156863, b: 0.7176471, a: 1}
+  - {r: 0.81960785, g: 0.64705884, b: 0.50980395, a: 1}
+  - {r: 0.93333334, g: 0.8352941, b: 0.6039216, a: 1}
+  tags: []
+  likes: 11

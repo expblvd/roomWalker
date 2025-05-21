@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6ca1c9d95b441d4191e10317c776e1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GreenTopDown.asset
+  uploadId: 751688

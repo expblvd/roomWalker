@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Taliwan
+  m_EditorClassIdentifier: 
+  title: Taliwan
+  colors:
+  - {r: 0.17254902, g: 0.05882353, b: 0.1882353, a: 1}
+  - {r: 0.45882353, g: 0.007843138, b: 0.3019608, a: 1}
+  - {r: 0.627451, g: 0.14509805, b: 0.32156864, a: 1}
+  - {r: 0.9019608, g: 0.27450982, b: 0.40392157, a: 1}
+  - {r: 0.88235295, g: 0.5176471, b: 0.20392157, a: 1}
+  - {r: 1, g: 0.627451, b: 0.105882354, a: 1}
+  - {r: 1, g: 0.7411765, b: 0.1254902, a: 1}
+  - {r: 0.9254902, g: 0.49019608, b: 0.60784316, a: 1}
+  - {r: 1, g: 0.654902, b: 0.7490196, a: 1}
+  - {r: 0.9490196, g: 0.93333334, b: 0.94509804, a: 1}
+  tags:
+  - pink
+  - purple
+  - yellow
+  - cute
+  likes: 113

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: WeeklyRelease
+  m_EditorClassIdentifier: 
+  title: Weekly Release
+  colors:
+  - {r: 0.18039216, g: 0.14901961, b: 0.13333334, a: 1}
+  - {r: 0.46666667, g: 0.45490196, b: 0.43529412, a: 1}
+  - {r: 0.627451, g: 0.62352943, b: 0.5921569, a: 1}
+  - {r: 0.8, g: 0.80784315, b: 0.78039217, a: 1}
+  tags:
+  - manga
+  - 4colors
+  - monochrome
+  - blackandwhite
+  - 2bit
+  likes: 83

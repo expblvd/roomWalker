@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CozyTones
+  m_EditorClassIdentifier: 
+  title: Cozy Tones
+  colors:
+  - {r: 0.03137255, g: 0.03137255, b: 0.14901961, a: 1}
+  - {r: 0.15686275, g: 0.039215688, b: 0.2, a: 1}
+  - {r: 0.3019608, g: 0.05882353, b: 0.19607843, a: 1}
+  - {r: 0.13725491, g: 0.2901961, b: 0.34117648, a: 1}
+  - {r: 0.7019608, g: 0.37254903, b: 0.2784314, a: 1}
+  - {r: 0.36078432, g: 0.6, b: 0.45490196, a: 1}
+  - {r: 0.4627451, g: 0.7411765, b: 0.36862746, a: 1}
+  - {r: 0.8901961, g: 0.87058824, b: 0.53333336, a: 1}
+  tags:
+  - cozy
+  - desaturated
+  - warm
+  - pastel
+  - 3bit
+  - orange
+  - green
+  likes: 43

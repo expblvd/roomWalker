@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Shelf6
+  m_EditorClassIdentifier: 
+  title: Shelf6
+  colors:
+  - {r: 0.16470589, g: 0.14509805, b: 0.2509804, a: 1}
+  - {r: 0.21568628, g: 0.17254902, b: 0.31764707, a: 1}
+  - {r: 0.25882354, g: 0.20392157, b: 0.34509805, a: 1}
+  - {r: 0.27450982, g: 0.2901961, b: 0.4509804, a: 1}
+  - {r: 0.32941177, g: 0.40392157, b: 0.6, a: 1}
+  - {r: 0.3529412, g: 0.5019608, b: 0.654902, a: 1}
+  tags: []
+  likes: 17

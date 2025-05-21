@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a47a58aee4101b94bb3cc627844a7012
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Resources/Shaders/ColorBlend.hlsl
+  uploadId: 751688

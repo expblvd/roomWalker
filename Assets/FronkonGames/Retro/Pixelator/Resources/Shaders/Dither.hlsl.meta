@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cea2b0625d5424a40b2f30eb4fe534bf
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Dither.hlsl
+  uploadId: 758029

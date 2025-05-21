@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50ed19c480d0b7c4d98d5392b8bc2e1a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Pixelator_URP.shader
+  uploadId: 758029

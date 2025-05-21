@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de86dee9c9ced914a8432a1ae659ae36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TheRGBPalette.asset
+  uploadId: 751688

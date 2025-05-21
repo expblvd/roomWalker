@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Arjibi8
+  m_EditorClassIdentifier: 
+  title: Arjibi8
+  colors:
+  - {r: 0.2784314, g: 0.105882354, b: 0.43137255, a: 1}
+  - {r: 0.4392157, g: 0.15294118, b: 0.50980395, a: 1}
+  - {r: 0.6901961, g: 0.27058825, b: 0.3529412, a: 1}
+  - {r: 0.32156864, g: 0.29411766, b: 0.7019608, a: 1}
+  - {r: 0.34117648, g: 0.5882353, b: 0.6313726, a: 1}
+  - {r: 0.87058824, g: 0.54509807, b: 0.43529412, a: 1}
+  - {r: 0.54509807, g: 0.78039217, b: 0.7490196, a: 1}
+  - {r: 0.92156863, g: 0.8392157, b: 0.5803922, a: 1}
+  tags:
+  - artist
+  - arjibi8
+  - 8
+  - pixelart
+  likes: 108

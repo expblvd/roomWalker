@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Jehkoba16
+  m_EditorClassIdentifier: 
+  title: Jehkoba16
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.03137255, g: 0.03529412, b: 0.101960786, a: 1}
+  - {r: 0.2509804, g: 0.2509804, b: 0.5019608, a: 1}
+  - {r: 0.12941177, g: 0.6509804, b: 0.3647059, a: 1}
+  - {r: 0.16078432, g: 0.5019608, b: 0.6509804, a: 1}
+  - {r: 0.6, g: 0.27058825, b: 0.49019608, a: 1}
+  - {r: 0.7490196, g: 0.3764706, b: 0.3764706, a: 1}
+  - {r: 0.5921569, g: 0.7490196, b: 0.1882353, a: 1}
+  - {r: 1, g: 0.2, b: 0.4, a: 1}
+  - {r: 0.41960785, g: 0.5254902, b: 0.7019608, a: 1}
+  - {r: 0.16862746, g: 0.7372549, b: 0.8509804, a: 1}
+  - {r: 0.9411765, g: 0.8039216, b: 0.1882353, a: 1}
+  - {r: 1, g: 0.6, b: 0.34901962, a: 1}
+  - {r: 0.59607846, g: 0.8509804, b: 0.827451, a: 1}
+  - {r: 1, g: 0.6509804, b: 0.6509804, a: 1}
+  - {r: 0.9490196, g: 0.9254902, b: 0.9019608, a: 1}
+  tags:
+  - 4bit
+  - retro
+  - classic
+  - nes
+  - famicom
+  - zelda
+  - megaman
+  - rockman
+  - mario
+  - bright
+  - vibrant
+  - cheerful
+  - minimal
+  likes: 32

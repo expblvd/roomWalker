@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7250bc379e0f27408fd64ea7b4795b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/BlankVHSBox.asset
+  uploadId: 751688

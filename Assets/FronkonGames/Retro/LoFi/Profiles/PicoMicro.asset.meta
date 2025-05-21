@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a81d214cf81b74f4cb6fae31a9427dba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PicoMicro.asset
+  uploadId: 751688

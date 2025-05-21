@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: EmptyNight
+  m_EditorClassIdentifier: 
+  title: empty night
+  colors:
+  - {r: 0.27058825, g: 0.20392157, b: 0.2901961, a: 1}
+  - {r: 0.39607844, g: 0.47843137, b: 0.52156866, a: 1}
+  - {r: 0.36862746, g: 0.6156863, b: 0.41568628, a: 1}
+  - {r: 0.54901963, g: 0.6509804, b: 0.49803922, a: 1}
+  - {r: 0.827451, g: 0.7490196, b: 0.46666667, a: 1}
+  tags:
+  - palette
+  - enzogray
+  - dark
+  likes: 38

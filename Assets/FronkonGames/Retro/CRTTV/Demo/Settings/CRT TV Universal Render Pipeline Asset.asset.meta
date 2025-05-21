@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5042b6a263d56ad4cad4d1189d766bff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Demo/Settings/CRT TV Universal Render
+    Pipeline Asset.asset
+  uploadId: 751711

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: NymphGB
+  m_EditorClassIdentifier: 
+  title: Nymph GB
+  colors:
+  - {r: 0.17254902, g: 0.12941177, b: 0.21568628, a: 1}
+  - {r: 0.26666668, g: 0.38039216, b: 0.4627451, a: 1}
+  - {r: 0.24705882, g: 0.6745098, b: 0.58431375, a: 1}
+  - {r: 0.6313726, g: 0.9372549, b: 0.54901963, a: 1}
+  tags:
+  - Carlos Emmanuel Manolo
+  - kerrielake
+  - artist
+  - gameboy
+  likes: 190

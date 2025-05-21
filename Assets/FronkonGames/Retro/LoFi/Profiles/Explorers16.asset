@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Explorers16
+  m_EditorClassIdentifier: 
+  title: Explorers16
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.25882354, g: 0.12941177, b: 0.21176471, a: 1}
+  - {r: 0.11372549, g: 0.16862746, b: 0.3254902, a: 1}
+  - {r: 0.07058824, g: 0.3254902, b: 0.34901962, a: 1}
+  - {r: 0.45490196, g: 0.18431373, b: 0.16078432, a: 1}
+  - {r: 0, g: 0.5294118, b: 0.31764707, a: 1}
+  - {r: 0.023529412, g: 0.3529412, b: 0.70980394, a: 1}
+  - {r: 0, g: 0.89411765, b: 0.21176471, a: 1}
+  - {r: 0.67058825, g: 0.32156864, b: 0.21176471, a: 1}
+  - {r: 1, g: 0, b: 0.3019608, a: 1}
+  - {r: 1, g: 0.6392157, b: 0, a: 1}
+  - {r: 0.65882355, g: 0.90588236, b: 0.18039216, a: 1}
+  - {r: 1, g: 0.43137255, b: 0.34901962, a: 1}
+  - {r: 0.16078432, g: 0.6784314, b: 1, a: 1}
+  - {r: 0.9529412, g: 0.9372549, b: 0.49019608, a: 1}
+  - {r: 1, g: 0.8, b: 0.6666667, a: 1}
+  tags:
+  - explorers
+  - pico8
+  - skin
+  - water
+  - vegetation
+  - blue
+  - green
+  - game
+  likes: 24

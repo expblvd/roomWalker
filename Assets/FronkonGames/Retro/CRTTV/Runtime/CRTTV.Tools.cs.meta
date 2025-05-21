@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c541a23197f0fcf4781e2851a7ec122c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Runtime/CRTTV.Tools.cs
+  uploadId: 751711

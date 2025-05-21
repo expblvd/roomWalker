@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb180e5f333e86b4e90cde9e10c8390e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NintendoGameboyArne.asset
+  uploadId: 751688

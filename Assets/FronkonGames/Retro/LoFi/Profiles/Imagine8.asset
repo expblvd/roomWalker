@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Imagine8
+  m_EditorClassIdentifier: 
+  title: Imagine8
+  colors:
+  - {r: 0.2509804, g: 0.105882354, b: 0.1254902, a: 1}
+  - {r: 0.14117648, g: 0.4745098, b: 0.23921569, a: 1}
+  - {r: 0.5568628, g: 0.14509805, b: 0.18039216, a: 1}
+  - {r: 0.05490196, g: 0.22745098, b: 0.7490196, a: 1}
+  - {r: 0.87058824, g: 0.007843138, b: 0.30588236, a: 1}
+  - {r: 0.5764706, g: 0.3137255, b: 0.6666667, a: 1}
+  - {r: 0.9882353, g: 0.30588236, b: 0.31764707, a: 1}
+  - {r: 1, g: 0.67058825, b: 0.5372549, a: 1}
+  tags:
+  - rainbow
+  - warm
+  - bright
+  - childhood
+  - eyestrain
+  likes: 70

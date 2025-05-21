@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Juiciful8
+  m_EditorClassIdentifier: 
+  title: Juiciful 8
+  colors:
+  - {r: 0.007843138, g: 0.007843138, b: 0.007843138, a: 1}
+  - {r: 0.25882354, g: 0.039215688, b: 0.25882354, a: 1}
+  - {r: 0.50980395, g: 0.039215688, b: 0.37254903, a: 1}
+  - {r: 0.7764706, g: 0.039215688, b: 0.37254903, a: 1}
+  - {r: 1, g: 0.18431373, b: 0.30588236, a: 1}
+  - {r: 1, g: 0.50980395, b: 0.50980395, a: 1}
+  - {r: 1, g: 0.7764706, b: 0.7764706, a: 1}
+  - {r: 1, g: 0.96862745, b: 0.95686275, a: 1}
+  tags: []
+  likes: 22

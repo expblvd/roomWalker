@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e7b3206de0e0d0419ea541f7e91885c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PinballDisplayColours.asset
+  uploadId: 751688

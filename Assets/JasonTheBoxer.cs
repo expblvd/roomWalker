@@ -66,8 +66,8 @@ public class JasonTheBoxer : EnemyBase
             audioSource.clip = tiredSound;
             audioSource.Play();
             alertToAttackTime -= 0.05f;
-            if(alertToAttackTime <= 0.1){
-                alertToAttackTime = 0.1f;
+            if(alertToAttackTime <= 0.01f){
+                alertToAttackTime = 0.01f;
             }
             yield return new WaitForSeconds(2f);
             audioSource.Stop();
@@ -81,8 +81,8 @@ public class JasonTheBoxer : EnemyBase
         if((int)attackDirection == (int)playerCombatStatus.currentDirection && playerCombatStatus.isBlocking){
             Debug.Log("Attack Blocked!");
             SFXManager.Instance.audioSource.PlayOneShot(player.blockSound);
-            StartCoroutine(FreezeFrame(freezeFrameTime)); // 0.1 seconds freeze
-            //FindFirstObjectByType<ScreenShake>().Shake(0.2f,0.04f);
+            //StartCoroutine(FreezeFrame(freezeFrameTime)); // 0.1 seconds freeze
+            FindFirstObjectByType<ScreenShake>().Shake(0.2f,0.04f);
         }else{
             Debug.Log("Attack Landed!");
             player.TakeDamage();

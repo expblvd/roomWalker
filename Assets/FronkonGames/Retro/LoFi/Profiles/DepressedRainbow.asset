@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: DepressedRainbow
+  m_EditorClassIdentifier: 
+  title: Depressed Rainbow
+  colors:
+  - {r: 0.02745098, g: 0.05882353, b: 0, a: 1}
+  - {r: 0.16470589, g: 0.2, b: 0.1882353, a: 1}
+  - {r: 0.28235295, g: 0.32156864, b: 0.32941177, a: 1}
+  - {r: 0.37254903, g: 0.4392157, b: 0.3882353, a: 1}
+  - {r: 0.49019608, g: 0.58431375, b: 0.6, a: 1}
+  - {r: 0.65882355, g: 0.6313726, b: 0.67058825, a: 1}
+  - {r: 0.7647059, g: 0.73333335, b: 0.78039217, a: 1}
+  - {r: 0.827451, g: 0.80784315, b: 0.8392157, a: 1}
+  - {r: 0.9019608, g: 0.9019608, b: 0.8745098, a: 1}
+  tags: []
+  likes: 16

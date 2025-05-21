@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3c02c04d3d4f414faaf73493d1dcd78
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Filters.hlsl
+  uploadId: 758029

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80b1211402fb2c54ab4aa84f0056ad88
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NovocaineGB.asset
+  uploadId: 751688

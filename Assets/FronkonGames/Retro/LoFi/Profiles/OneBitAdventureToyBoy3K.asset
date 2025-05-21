@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: OneBitAdventureToyBoy3K
+  m_EditorClassIdentifier: 
+  title: OneBit Adventure ToyBoy 3K
+  colors:
+  - {r: 0.02745098, g: 0.09411765, b: 0.1254902, a: 1}
+  - {r: 0.078431375, g: 0.21960784, b: 0.17254902, a: 1}
+  - {r: 0.2, g: 0.40784314, b: 0.3372549, a: 1}
+  - {r: 0.5254902, g: 0.7529412, b: 0.4509804, a: 1}
+  - {r: 0.88235295, g: 0.96862745, b: 0.81960785, a: 1}
+  tags: []
+  likes: 16

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Rabbitking
+  m_EditorClassIdentifier: 
+  title: RABBITKING
+  colors:
+  - {r: 0.12156863, g: 0.23921569, b: 0.29803923, a: 1}
+  - {r: 0.4, g: 0.2, b: 0.30980393, a: 1}
+  - {r: 0.6, g: 0.36078432, b: 0.36078432, a: 1}
+  - {r: 0.34901962, g: 0.49019608, b: 0.5019608, a: 1}
+  - {r: 0.5529412, g: 0.6509804, b: 0.45490196, a: 1}
+  - {r: 0.8, g: 0.6039216, b: 0.56078434, a: 1}
+  - {r: 0.69803923, g: 0.68235296, b: 0.6313726, a: 1}
+  - {r: 0.9019608, g: 0.85490197, b: 0.6313726, a: 1}
+  - {r: 1, g: 0.972549, b: 0.9490196, a: 1}
+  tags:
+  - minimal
+  - gameboy
+  - 9
+  - desaturated
+  likes: 18

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee0083fdd2a391e4b9bda4fc779d4d11
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/Posterize.hlsl
+  uploadId: 758029

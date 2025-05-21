@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 849b2c1380e13fa4a8117d016621a1e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GameWatchGB.asset
+  uploadId: 751688

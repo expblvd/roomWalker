@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: MintySteel
+  m_EditorClassIdentifier: 
+  title: Minty Steel
+  colors:
+  - {r: 0.09803922, g: 0.11372549, b: 0.14117648, a: 1}
+  - {r: 0.21176471, g: 0.30980393, b: 0.34901962, a: 1}
+  - {r: 0.3529412, g: 0.57254905, b: 0.5803922, a: 1}
+  - {r: 0.70980394, g: 0.9019608, b: 0.827451, a: 1}
+  tags:
+  - mint
+  - steel
+  - metal
+  - calm
+  likes: 41

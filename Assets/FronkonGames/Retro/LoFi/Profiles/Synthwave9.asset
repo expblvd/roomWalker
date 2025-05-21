@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Synthwave9
+  m_EditorClassIdentifier: 
+  title: Synthwave 9
+  colors:
+  - {r: 0.105882354, g: 0.11764706, b: 0.13725491, a: 1}
+  - {r: 0.2509804, g: 0.14901961, b: 0.36078432, a: 1}
+  - {r: 0.14117648, g: 0.27058825, b: 0.5176471, a: 1}
+  - {r: 0.61960787, g: 0.13333334, b: 0.5058824, a: 1}
+  - {r: 0.7411765, g: 0.29411766, b: 0.39215687, a: 1}
+  - {r: 0.3137255, g: 0.6627451, b: 0.8117647, a: 1}
+  - {r: 0.9254902, g: 0.5529412, b: 0.45882353, a: 1}
+  - {r: 0.5882353, g: 0.9019608, b: 0.7607843, a: 1}
+  - {r: 0.9647059, g: 0.92941177, b: 0.85882354, a: 1}
+  tags:
+  - Casei Solus
+  - artist
+  likes: 54

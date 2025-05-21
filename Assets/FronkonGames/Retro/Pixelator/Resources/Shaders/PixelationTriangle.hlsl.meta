@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 133190a20dbd4f2478cd88164a0c7692
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/PixelationTriangle.hlsl
+  uploadId: 758029

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: DuskArmy
+  m_EditorClassIdentifier: 
+  title: Dusk Army
+  colors:
+  - {r: 0.25490198, g: 0.29411766, b: 0.3529412, a: 1}
+  - {r: 0.30980393, g: 0.3529412, b: 0.4117647, a: 1}
+  - {r: 0.4392157, g: 0.42745098, b: 0.39607844, a: 1}
+  - {r: 0.3764706, g: 0.49803922, b: 0.5019608, a: 1}
+  - {r: 0.5058824, g: 0.4745098, b: 0.47843137, a: 1}
+  - {r: 0.41960785, g: 0.54509807, b: 0.54901963, a: 1}
+  - {r: 0.5137255, g: 0.5254902, b: 0.56078434, a: 1}
+  - {r: 0.5529412, g: 0.5254902, b: 0.5294118, a: 1}
+  - {r: 0.5019608, g: 0.6039216, b: 0.5372549, a: 1}
+  - {r: 0.5058824, g: 0.6392157, b: 0.5568628, a: 1}
+  - {r: 0.63529414, g: 0.7019608, b: 0.60784316, a: 1}
+  - {r: 0.6666667, g: 0.7647059, b: 0.61960787, a: 1}
+  tags:
+  - army
+  - camo
+  - green
+  - dark
+  - desaturated
+  likes: 11

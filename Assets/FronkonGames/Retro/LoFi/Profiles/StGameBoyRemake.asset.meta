@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db1fda9397843164087e96332f2b859c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/StGameBoyRemake.asset
+  uploadId: 751688

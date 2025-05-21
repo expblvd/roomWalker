@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BerryNebula
+  m_EditorClassIdentifier: 
+  title: Berry Nebula
+  colors:
+  - {r: 0.050980393, g: 0, b: 0.101960786, a: 1}
+  - {r: 0.18039216, g: 0.039215688, b: 0.1882353, a: 1}
+  - {r: 0.30980393, g: 0.078431375, b: 0.27450982, a: 1}
+  - {r: 0.43529412, g: 0.11372549, b: 0.36078432, a: 1}
+  - {r: 0.43137255, g: 0.31764707, b: 0.5058824, a: 1}
+  - {r: 0.42745098, g: 0.52156866, b: 0.64705884, a: 1}
+  - {r: 0.42352942, g: 0.7254902, b: 0.7882353, a: 1}
+  - {r: 0.42352942, g: 0.92941177, b: 0.92941177, a: 1}
+  tags:
+  - blue
+  - purple
+  - violet
+  - blueraspberry
+  - grape
+  - nebula
+  - stars
+  - cool
+  - cooltone
+  - glow
+  - otherworldy
+  - space
+  - undergound
+  likes: 401

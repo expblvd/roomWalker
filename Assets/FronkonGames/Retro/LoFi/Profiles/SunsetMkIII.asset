@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: SunsetMkIII
+  m_EditorClassIdentifier: 
+  title: Sunset Mk III
+  colors:
+  - {r: 0.4392157, g: 0.54509807, b: 0.83137256, a: 1}
+  - {r: 0.5176471, g: 0.56078434, b: 0.85882354, a: 1}
+  - {r: 0.6431373, g: 0.6156863, b: 0.83137256, a: 1}
+  - {r: 0.7490196, g: 0.6431373, b: 0.8627451, a: 1}
+  - {r: 0.85490197, g: 0.6666667, b: 0.89411765, a: 1}
+  - {r: 0.9607843, g: 0.7294118, b: 0.8509804, a: 1}
+  - {r: 0.9647059, g: 0.7882353, b: 0.8235294, a: 1}
+  - {r: 0.9607843, g: 0.6901961, b: 0.9254902, a: 1}
+  tags:
+  - sunset
+  - sunset
+  - sunrise
+  - sunrise
+  - gentle
+  - pastel
+  - light
+  - sun
+  - sun
+  - pastel
+  - 3
+  - moon
+  - night
+  - day
+  likes: 49

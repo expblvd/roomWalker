@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Offshore
+  m_EditorClassIdentifier: 
+  title: Offshore
+  colors:
+  - {r: 0.007843138, g: 0.011764706, b: 0.015686275, a: 1}
+  - {r: 0.05882353, g: 0.047058824, b: 0.047058824, a: 1}
+  - {r: 0.07058824, g: 0.078431375, b: 0.10980392, a: 1}
+  - {r: 0.1254902, g: 0.105882354, b: 0.105882354, a: 1}
+  - {r: 0.14901961, g: 0.16862746, b: 0.25882354, a: 1}
+  - {r: 0.25882354, g: 0.21176471, b: 0.1764706, a: 1}
+  - {r: 0.27058825, g: 0.30588236, b: 0.49411765, a: 1}
+  - {r: 0.4509804, g: 0.36862746, b: 0.29803923, a: 1}
+  - {r: 0.37254903, g: 0.42352942, b: 0.6784314, a: 1}
+  - {r: 0.6784314, g: 0.6117647, b: 0.49411765, a: 1}
+  - {r: 0.5058824, g: 0.58431375, b: 0.87058824, a: 1}
+  - {r: 0.87058824, g: 0.83137256, b: 0.6862745, a: 1}
+  - {r: 0.6784314, g: 0.7607843, b: 0.9843137, a: 1}
+  - {r: 0.98039216, g: 0.96862745, b: 0.8352941, a: 1}
+  tags:
+  - dark
+  - cold
+  - desaturated
+  - lonely
+  - 14
+  - blue
+  - yellow
+  - brown
+  likes: 36

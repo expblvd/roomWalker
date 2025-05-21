@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: DreamHaze8
+  m_EditorClassIdentifier: 
+  title: DreamHaze8
+  colors:
+  - {r: 0.22352941, g: 0.23137255, b: 0.2, a: 1}
+  - {r: 0.27450982, g: 0.29803923, b: 0.29411766, a: 1}
+  - {r: 0.4, g: 0.3529412, b: 0.3529412, a: 1}
+  - {r: 0.44705883, g: 0.42745098, b: 0.49019608, a: 1}
+  - {r: 0.56078434, g: 0.5882353, b: 0.54901963, a: 1}
+  - {r: 0.6509804, g: 0.70980394, b: 0.7294118, a: 1}
+  - {r: 0.81960785, g: 0.8156863, b: 0.7607843, a: 1}
+  - {r: 0.9098039, g: 0.827451, b: 0.8745098, a: 1}
+  tags:
+  - pastel
+  likes: 104

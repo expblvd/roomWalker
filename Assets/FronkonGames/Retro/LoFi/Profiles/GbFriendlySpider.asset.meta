@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15f198a6ab56a1047858de8750b7a765
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GbFriendlySpider.asset
+  uploadId: 751688

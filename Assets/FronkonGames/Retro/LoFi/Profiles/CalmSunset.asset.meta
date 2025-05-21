@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61ca7100511cb1c48b1e7ce62f974256
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/CalmSunset.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5b4b06d377f34c4ab18ef25b7fc9106
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/LostCentury.asset
+  uploadId: 751688

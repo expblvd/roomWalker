@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e4c5c82f1112eb40a45ce4d4135ade2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/package.json
+  uploadId: 751711

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 14da0b5820c59054f8a178e23ed1ecb8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Resources/Shaders/RetroCRTTV.hlsl
+  uploadId: 751711

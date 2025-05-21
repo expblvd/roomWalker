@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GrapeSodaArcade
+  m_EditorClassIdentifier: 
+  title: Grape Soda Arcade
+  colors:
+  - {r: 0.09411765, g: 0.12941177, b: 0.3647059, a: 1}
+  - {r: 0.3137255, g: 0.19215687, b: 0.5921569, a: 1}
+  - {r: 0.7490196, g: 0.3254902, b: 0.7882353, a: 1}
+  - {r: 0.88235295, g: 0.4862745, b: 0.7176471, a: 1}
+  - {r: 0.9372549, g: 0.6666667, b: 0.64705884, a: 1}
+  - {r: 0.9647059, g: 0.8784314, b: 0.78431374, a: 1}
+  tags: []
+  likes: 67

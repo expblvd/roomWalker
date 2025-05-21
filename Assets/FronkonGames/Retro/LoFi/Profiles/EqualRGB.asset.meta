@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2beda0e627d03c24fa56f7aa451c9b54
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/EqualRGB.asset
+  uploadId: 751688

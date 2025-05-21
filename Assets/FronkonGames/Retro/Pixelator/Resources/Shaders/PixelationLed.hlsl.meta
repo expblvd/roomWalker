@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 154f02a0195f6f24281992689f133653
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/PixelationLed.hlsl
+  uploadId: 758029

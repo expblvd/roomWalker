@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Sunset9
+  m_EditorClassIdentifier: 
+  title: Sunset 9
+  colors:
+  - {r: 0.050980393, g: 0.15294118, b: 0.22745098, a: 1}
+  - {r: 0.20784314, g: 0.20784314, b: 0.22745098, a: 1}
+  - {r: 0.29411766, g: 0.39215687, b: 0.44705883, a: 1}
+  - {r: 0.85882354, g: 0.34509805, b: 0, a: 1}
+  - {r: 0.9490196, g: 0.70980394, b: 0.039215688, a: 1}
+  - {r: 0.49019608, g: 0.5882353, b: 0.627451, a: 1}
+  - {r: 0.72156864, g: 0.6745098, b: 0.38431373, a: 1}
+  - {r: 0.5882353, g: 0.6666667, b: 0.62352943, a: 1}
+  - {r: 0.91764706, g: 0.9372549, b: 0.9137255, a: 1}
+  tags:
+  - sunset
+  - sunset9
+  - colorful
+  - sky
+  - blue
+  likes: 14

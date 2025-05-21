@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Homework
+  m_EditorClassIdentifier: 
+  title: Homework
+  colors:
+  - {r: 0.07058824, g: 0.07058824, b: 0.105882354, a: 1}
+  - {r: 0.27058825, g: 0.3372549, b: 0.5529412, a: 1}
+  - {r: 0.5294118, g: 0.54901963, b: 0.6156863, a: 1}
+  - {r: 0.88235295, g: 0.84705883, b: 0.83137256, a: 1}
+  tags:
+  - bright
+  - 2bit
+  - 4colors
+  - 4
+  - 2buarypalettecontest
+  - contest
+  - paper
+  - pen
+  - blue
+  likes: 25

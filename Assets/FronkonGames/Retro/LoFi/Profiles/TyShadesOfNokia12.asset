@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TyShadesOfNokia12
+  m_EditorClassIdentifier: 
+  title: TY Shades of Nokia 12
+  colors:
+  - {r: 0.19215687, g: 0.16862746, b: 0.14509805, a: 1}
+  - {r: 0.24705882, g: 0.24705882, b: 0.24705882, a: 1}
+  - {r: 0.2627451, g: 0.32156864, b: 0.23921569, a: 1}
+  - {r: 0.23529412, g: 0.26666668, b: 0.3764706, a: 1}
+  - {r: 0.45490196, g: 0.27058825, b: 0.21960784, a: 1}
+  - {r: 0.4117647, g: 0.36862746, b: 0.4392157, a: 1}
+  - {r: 0.49019608, g: 0.52156866, b: 0.2509804, a: 1}
+  - {r: 0.2901961, g: 0.47058824, b: 0.52156866, a: 1}
+  - {r: 0.6666667, g: 0.42745098, b: 0.23529412, a: 1}
+  - {r: 0.46666667, g: 0.5529412, b: 0.5647059, a: 1}
+  - {r: 0.6666667, g: 0.6156863, b: 0.5019608, a: 1}
+  - {r: 0.78039217, g: 0.9411765, b: 0.84705883, a: 1}
+  tags:
+  - retro
+  - limited
+  - nokia
+  - versatile
+  likes: 63

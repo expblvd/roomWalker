@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff08b13cda34b8142a09c7f50dbeb499
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DeadbeatGB.asset
+  uploadId: 751688

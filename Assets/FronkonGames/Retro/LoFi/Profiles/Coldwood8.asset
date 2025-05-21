@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Coldwood8
+  m_EditorClassIdentifier: 
+  title: Coldwood8
+  colors:
+  - {r: 0.21568628, g: 0.18039216, b: 0.3019608, a: 1}
+  - {r: 0.38039216, g: 0.2627451, b: 0.3882353, a: 1}
+  - {r: 0.37254903, g: 0.4117647, b: 0.6117647, a: 1}
+  - {r: 0.70980394, g: 0.42745098, b: 0.49803922, a: 1}
+  - {r: 0.39607844, g: 0.68235296, b: 0.8392157, a: 1}
+  - {r: 0.9411765, g: 0.7019608, b: 0.5529412, a: 1}
+  - {r: 0.6431373, g: 0.92156863, b: 0.8, a: 1}
+  - {r: 0.9372549, g: 0.98039216, b: 0.9019608, a: 1}
+  tags:
+  - artist
+  - coldwood8
+  - 8
+  - red
+  - blue
+  - saturated
+  likes: 106

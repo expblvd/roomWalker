@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4600785973577034159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ab8ad25355cec4ca9bc6728f314fc7, type: 3}
+  m_Name: LoFi
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    intensity: 1
+    palette: 1
+    profile: {fileID: 11400000, guid: c1ae422f8e112bf418d2610e3c881156, type: 2}
+    mode: 1
+    sampleMethod: 1
+    resolution: 32
+    colorThreshold: 0
+    luminancePow: 1.5
+    rangeMin: 0
+    rangeMax: 1
+    invert: 0
+    pixelate: 1
+    pixelSize: 12
+    pixelSobel: 0
+    pixelSobelPower: 1
+    pixelSobelAngle: 45
+    pixelSobelLightIntensity: 1
+    pixelSobelAmbient: 0.2
+    pixelRound: 0
+    pixelSamples: 2
+    pixelBlend: 16
+    pixelTint: {r: 1, g: 1, b: 1, a: 1}
+    pixelBevel: 0
+    quantization: 0
+    colors: 32
+    vignette: 0.3
+    scanline: 1
+    scanlineCount: 500
+    scanlineSpeed: 10
+    chromaticAberration: 0.5
+    shine: 0.1
+    shineSize: 0.4
+    aperture: 0.95
+    curvature: 0.5
+    border: 1
+    borderColor: {r: 0.3, g: 0.25, b: 0.15, a: 1}
+    borderSmooth: 0.5
+    borderNoise: 0.2
+    borderMargins: {x: 1, y: 1}
+    brightness: 0
+    contrast: 1
+    gamma: 1
+    hue: 0
+    saturation: 1
+    affectSceneView: 0
+    whenToInsert: 550
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+  m_Name: LoFi Universal Render Pipeline Asset_Renderer
+  m_EditorClassIdentifier: 
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: 573620ae32aec764abd4d728906d2587, type: 3}
+    probeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959, type: 3}
+  probeVolumeResources:
+    probeVolumeDebugShader: {fileID: 0}
+    probeVolumeFragmentationDebugShader: {fileID: 0}
+    probeVolumeOffsetDebugShader: {fileID: 0}
+    probeVolumeSamplingDebugShader: {fileID: 0}
+    probeSamplingDebugMesh: {fileID: 0}
+    probeSamplingDebugTexture: {fileID: 0}
+    probeVolumeBlendStatesCS: {fileID: 0}
+  m_RendererFeatures:
+  - {fileID: -4600785973577034159}
+  m_RendererFeatureMap: 5156577588b926c0
+  m_UseNativeRenderPass: 0
+  xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
+  postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
+  m_AssetVersion: 2
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 2
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 0
+  m_CopyDepthMode: 0
+  m_DepthAttachmentFormat: 0
+  m_DepthTextureFormat: 0
+  m_AccurateGbufferNormals: 0
+  m_IntermediateTextureMode: 1
+--- !u!114 &2555286817244053542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ab8ad25355cec4ca9bc6728f314fc7, type: 3}
+  m_Name: LoFi
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    intensity: 1
+    palette: 1
+    profile: {fileID: 0}
+    mode: 0
+    sampleMethod: 1
+    resolution: 512
+    colorThreshold: 0.5
+    luminancePow: 1.5
+    rangeMin: 0
+    rangeMax: 1
+    invert: 0
+    pixelate: 1
+    pixelSize: 12
+    pixelSobel: 0
+    pixelSobelPower: 1
+    pixelSobelAngle: 45
+    pixelSobelLightIntensity: 1
+    pixelSobelAmbient: 0.2
+    pixelRound: 0
+    pixelSamples: 2
+    pixelBlend: 16
+    pixelTint: {r: 1, g: 1, b: 1, a: 1}
+    pixelBevel: 0
+    quantization: 0
+    colors: 12
+    vignette: 0.3
+    scanline: 0
+    scanlineCount: 250
+    scanlineSpeed: 10
+    chromaticAberration: 0.5
+    shine: 0.1
+    shineSize: 0.4
+    aperture: 0.95
+    curvature: 0.1
+    border: 1
+    borderColor: {r: 0.8, g: 0.8, b: 0.6, a: 1}
+    borderSmooth: 0.5
+    borderNoise: 0.5
+    borderMargins: {x: 1, y: 1}
+    brightness: 0
+    contrast: 1
+    gamma: 1
+    hue: 0
+    saturation: 1
+    affectSceneView: 0
+    whenToInsert: 550

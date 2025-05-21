@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Hypocrites
+  m_EditorClassIdentifier: 
+  title: Hypocrites
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.02745098, g: 0.10980392, b: 0.3529412, a: 1}
+  - {r: 0.72156864, g: 0, b: 0.28627452, a: 1}
+  - {r: 0.2901961, g: 0.09019608, b: 0.6313726, a: 1}
+  - {r: 0.73333335, g: 0.09803922, b: 0.88235295, a: 1}
+  - {r: 0.91764706, g: 0.3372549, b: 0.61960787, a: 1}
+  - {r: 1, g: 0.6509804, b: 0.3254902, a: 1}
+  - {r: 1, g: 0.5372549, b: 0.8627451, a: 1}
+  - {r: 0.9843137, g: 0.90588236, b: 0.70980394, a: 1}
+  tags:
+  - RoBEEFnik
+  - hypocrite
+  likes: 12

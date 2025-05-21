@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ece2ab3325169b4298c3106c3ed8657
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/AapMicro12.asset
+  uploadId: 751688

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f0cfc8ce8f55424daf7a84ab5271bbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Demo/Scripts/Rotate.cs
+  uploadId: 751688

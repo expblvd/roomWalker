@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Juliet
+  m_EditorClassIdentifier: 
+  title: Juliet
+  colors:
+  - {r: 0.16078432, g: 0.16862746, b: 0.1882353, a: 1}
+  - {r: 0.38039216, g: 0.21960784, b: 0.32941177, a: 1}
+  - {r: 0.67058825, g: 0.42352942, b: 0.5176471, a: 1}
+  - {r: 1, g: 0.76862746, b: 0.81960785, a: 1}
+  - {r: 1, g: 0.9098039, b: 0.88235295, a: 1}
+  tags:
+  - rose
+  - juliet
+  - soft
+  - pink
+  - 5colors
+  likes: 110

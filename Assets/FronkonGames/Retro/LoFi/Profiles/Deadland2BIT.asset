@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Deadland2BIT
+  m_EditorClassIdentifier: 
+  title: Deadland 2 BIT
+  colors:
+  - {r: 0.2, g: 0.003921569, b: 0.14901961, a: 1}
+  - {r: 0.48235294, g: 0.38039216, b: 0.28627452, a: 1}
+  - {r: 0.54509807, g: 0.70980394, b: 0.7019608, a: 1}
+  - {r: 0.8509804, g: 0.9019608, b: 0.98039216, a: 1}
+  tags:
+  - deadland
+  - 2bit
+  - 4colour
+  - gb
+  likes: 47

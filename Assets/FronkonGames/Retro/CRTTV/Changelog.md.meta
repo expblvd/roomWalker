@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8bc65aee16fafde4cbdb6ce9297fbfed
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 2.0.2
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Changelog.md
+  uploadId: 751711

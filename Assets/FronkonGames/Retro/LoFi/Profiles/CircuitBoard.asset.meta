@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 449ad1fe743a79b439440d11c3da97f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/CircuitBoard.asset
+  uploadId: 751688

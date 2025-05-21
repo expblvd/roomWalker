@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: ThunderstormBeneathTheSummit
+  m_EditorClassIdentifier: 
+  title: Thunderstorm Beneath The Summit
+  colors:
+  - {r: 0.039215688, g: 0.08235294, b: 0.105882354, a: 1}
+  - {r: 0.13333334, g: 0.11764706, b: 0.08235294, a: 1}
+  - {r: 0.08627451, g: 0.16078432, b: 0.26666668, a: 1}
+  - {r: 0.16078432, g: 0.1882353, b: 0.19607843, a: 1}
+  - {r: 0.34509805, g: 0.16078432, b: 0.09411765, a: 1}
+  - {r: 0.44313726, g: 0.22745098, b: 0.16078432, a: 1}
+  - {r: 0.3372549, g: 0.36078432, b: 0.3372549, a: 1}
+  - {r: 0.7176471, g: 0.6313726, b: 0.50980395, a: 1}
+  - {r: 0.5882353, g: 0.7019608, b: 0.68235296, a: 1}
+  - {r: 0.9843137, g: 0.6862745, b: 0.44313726, a: 1}
+  - {r: 0.92156863, g: 0.8901961, b: 0.8, a: 1}
+  - {r: 0.9843137, g: 0.8980392, b: 0.7882353, a: 1}
+  tags:
+  - earthtones
+  - mountain
+  - woodblock
+  - rust
+  likes: 108

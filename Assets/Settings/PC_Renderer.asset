@@ -1,5 +1,65 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7160157003353388520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ab8ad25355cec4ca9bc6728f314fc7, type: 3}
+  m_Name: LoFi
+  m_EditorClassIdentifier: 
+  m_Active: 0
+  settings:
+    intensity: 1
+    palette: 1
+    profile: {fileID: 11400000, guid: 1a3e205cec9a3014ea70c1aafdc8f13b, type: 2}
+    mode: 1
+    sampleMethod: 1
+    resolution: 32
+    colorThreshold: 0.5
+    luminancePow: 1.5
+    rangeMin: 0
+    rangeMax: 1
+    invert: 0
+    pixelate: 1
+    pixelSize: 12
+    pixelSobel: 0
+    pixelSobelPower: 1
+    pixelSobelAngle: 45
+    pixelSobelLightIntensity: 1
+    pixelSobelAmbient: 0.2
+    pixelRound: 0
+    pixelSamples: 2
+    pixelBlend: 16
+    pixelTint: {r: 1, g: 1, b: 1, a: 1}
+    pixelBevel: 0
+    quantization: 0
+    colors: 32
+    vignette: 0.3
+    scanline: 1
+    scanlineCount: 500
+    scanlineSpeed: 10
+    chromaticAberration: 0.5
+    shine: 0.1
+    shineSize: 0.4
+    aperture: 0.95
+    curvature: 0.5
+    border: 1
+    borderColor: {r: 0.3, g: 0.25, b: 0.15, a: 1}
+    borderSmooth: 0.5
+    borderNoise: 0.2
+    borderMargins: {x: 1, y: 1}
+    brightness: 0
+    contrast: 1
+    gamma: 1
+    hue: 0
+    saturation: 1
+    affectSceneView: 0
+    whenToInsert: 550
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26,7 +86,9 @@ MonoBehaviour:
     probeVolumeBlendStatesCS: {fileID: 7200000, guid: b9a23f869c4fd45f19c5ada54dd82176, type: 3}
   m_RendererFeatures:
   - {fileID: 7833122117494664109}
-  m_RendererFeatureMap: ad6b866f10d7b46c
+  - {fileID: 5893709169655862656}
+  - {fileID: -7160157003353388520}
+  m_RendererFeatureMap: ad6b866f10d7b46c80d5cc7a43a9ca51188a183f2403a29c
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
@@ -52,6 +114,110 @@ MonoBehaviour:
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 0
+--- !u!114 &5893709169655862656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc838fda3a3f934e9954a0f7ad96dbd, type: 3}
+  m_Name: Pixelator
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    intensity: 1
+    pixelationMode: 0
+    pixelSize: 0.117
+    screenAspectRatio: 1
+    aspectRatio: 0.2
+    pixelScale: {x: 1, y: 1}
+    radius: 0.185
+    background: {r: 0, g: 0, b: 0, a: 1}
+    threads: 3
+    chromaticAberrationIntensity: 0
+    chromaticAberrationOffset: {x: 1, y: 2, z: -1}
+    gradientIntensity: 0.39
+    gradient:
+      serializedVersion: 2
+      key0: {r: 0.03529412, g: 0.09411765, b: 0.2, a: 1}
+      key1: {r: 0.07450981, g: 0.24313726, b: 0.4862745, a: 1}
+      key2: {r: 0.44313726, g: 0.10980392, b: 0.5686275, a: 0}
+      key3: {r: 0.91764706, g: 0, b: 0.8509804, a: 0}
+      key4: {r: 0.039215688, g: 0.7411765, b: 0.7764706, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 16384
+      ctime2: 32768
+      ctime3: 49151
+      ctime4: 65535
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 5
+      m_NumAlphaKeys: 2
+    luminanceMin: 0
+    luminanceMax: 1
+    gradientMappingMode: 1
+    gradientCIELabSamples: 64
+    gradientApplyLuminance: 1
+    bevel: 0
+    ditherIntensity: 0.994
+    ditherPatternScale: 8
+    ditherThresholdScale: 0.695
+    ditherColorSteps: 8
+    posterizeIntensity: 1
+    posterizeRGBSteps: {x: 24, y: 24, z: 24}
+    posterizeLuminanceSteps: 148
+    posterizeHSVSteps: {x: 24, y: 24, z: 24}
+    posterizeGamma: 0.1
+    filtersIntensity: 0
+    sepiaIntensity: 0
+    coolBlueIntensity: 0
+    warmFilterIntensity: 0
+    invertColorIntensity: 0
+    hudsonIntensity: 0
+    hefeIntensity: 0
+    xproIntensity: 0
+    riseIntensity: 0
+    toasterIntensity: 0
+    irFilterIntensity: 0
+    thermalFilterIntensity: 0
+    duotoneIntensity: 0
+    duotoneColorA: {r: 0.1, g: 0.2, b: 0.5, a: 1}
+    duotoneColorB: {r: 0.9, g: 0.9, b: 0.2, a: 1}
+    nightVisionIntensity: 0
+    popArtIntensity: 0
+    blueprintIntensity: 0
+    blueprintEdgeColor: {r: 0.6, g: 0.8, b: 1, a: 1}
+    blueprintBackgroundColor: {r: 0.1, g: 0.2, b: 0.4, a: 1}
+    blueprintEdgeThreshold: 0.1
+    brightness: 0
+    contrast: 1.0001
+    gamma: 2.47
+    hue: 0
+    saturation: 1.2
+    affectSceneView: 1
+    whenToInsert: 550
+    forceGradientTextureUpdate: 0
+    gradientTexture: {fileID: 0}
+    gradientLuminanceMin: 0
+    gradientLuminanceMax: 1
+    filtersEnable: 0
 --- !u!114 &7833122117494664109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78,12 +244,3 @@ MonoBehaviour:
     BlurQuality: 0
     Falloff: 100
     SampleCount: -1
-  m_BlueNoise256Textures:
-  - {fileID: 2800000, guid: 36f118343fc974119bee3d09e2111500, type: 3}
-  - {fileID: 2800000, guid: 4b7b083e6b6734e8bb2838b0b50a0bc8, type: 3}
-  - {fileID: 2800000, guid: c06cc21c692f94f5fb5206247191eeee, type: 3}
-  - {fileID: 2800000, guid: cb76dd40fa7654f9587f6a344f125c9a, type: 3}
-  - {fileID: 2800000, guid: e32226222ff144b24bf3a5a451de54bc, type: 3}
-  - {fileID: 2800000, guid: 3302065f671a8450b82c9ddf07426f3a, type: 3}
-  - {fileID: 2800000, guid: 56a77a3e8d64f47b6afe9e3c95cb57d5, type: 3}
-  m_Shader: {fileID: 4800000, guid: 0849e84e3d62649e8882e9d6f056a017, type: 3}

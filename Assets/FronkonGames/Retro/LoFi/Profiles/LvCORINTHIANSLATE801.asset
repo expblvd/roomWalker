@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: LvCORINTHIANSLATE801
+  m_EditorClassIdentifier: 
+  title: LV CORINTHIAN SLATE 801
+  colors:
+  - {r: 0.03137255, g: 0.09803922, b: 0.11764706, a: 1}
+  - {r: 0.10980392, g: 0.14509805, b: 0.1764706, a: 1}
+  - {r: 0.2784314, g: 0.23921569, b: 0.30588236, a: 1}
+  - {r: 0.56078434, g: 0.4, b: 0.5176471, a: 1}
+  - {r: 0.8039216, g: 0.5372549, b: 0.7019608, a: 1}
+  - {r: 1, g: 0.6509804, b: 0.8509804, a: 1}
+  tags:
+  - corinthian
+  - slate
+  - pink
+  - green
+  likes: 16

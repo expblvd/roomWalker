@@ -1,0 +1,16 @@
+{
+  "name": "com.fronkongames.retro.lo-fi",
+  "version": "1.0.0",
+  "displayName": "Retro: Lo-Fi",
+  "description": "Low fidelity, high fun.",
+  "unity": "2022.3",
+  "unityRelease": "45f1",
+  "dependencies":  {  },
+  "keywords": [ "unity", "fps", "vr", "retro", "pixel", "art", "pixelart", "pixel art", "low", "lofi", "lospec", "lo-fi" ],
+  "author":
+  {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/store/retro/"
+  }
+}

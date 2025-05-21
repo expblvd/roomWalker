@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GodblooD8
+  m_EditorClassIdentifier: 
+  title: GODBLOOD8
+  colors:
+  - {r: 0, g: 0.019607844, b: 0.06666667, a: 1}
+  - {r: 0.019607844, g: 0.07058824, b: 0.2, a: 1}
+  - {r: 0.07058824, g: 0.16470589, b: 0.36862746, a: 1}
+  - {r: 0.08235294, g: 0.32156864, b: 0.41960785, a: 1}
+  - {r: 0.13333334, g: 0.47843137, b: 0.47843137, a: 1}
+  - {r: 0.21960784, g: 0.7294118, b: 0.54509807, a: 1}
+  - {r: 0.33333334, g: 1, b: 0.4745098, a: 1}
+  - {r: 0.77254903, g: 1, b: 0.54901963, a: 1}
+  tags: []
+  likes: 22

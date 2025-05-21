@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57e67b6de3bfee8499fbd59e8cc1d065
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Resources/Shaders/Retro.hlsl
+  uploadId: 751688

@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - Door
   - Interactable
+  - WorldCamera
+  - UICamera
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: ColorquestRetroRecolor
+  m_EditorClassIdentifier: 
+  title: colorquest retro recolor
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.3529412, g: 0.20392157, b: 0.05490196, a: 1}
+  - {r: 0.05490196, g: 0.24313726, b: 0.35686275, a: 1}
+  - {r: 0.08235294, g: 0.5372549, b: 0.29803923, a: 1}
+  - {r: 0.6784314, g: 0.3764706, b: 0.101960786, a: 1}
+  - {r: 0.38431373, g: 0.39607844, b: 0.38431373, a: 1}
+  - {r: 0.8392157, g: 0.29411766, b: 0.2, a: 1}
+  - {r: 0.29803923, g: 0.5372549, b: 0.54509807, a: 1}
+  - {r: 0.6901961, g: 0.3372549, b: 0.4392157, a: 1}
+  - {r: 0.58431375, g: 0.80784315, b: 0.3372549, a: 1}
+  - {r: 0.96862745, g: 0.627451, b: 0.27450982, a: 1}
+  - {r: 0.6745098, g: 0.6666667, b: 0.6745098, a: 1}
+  - {r: 0.58431375, g: 0.80784315, b: 0.8039216, a: 1}
+  - {r: 1, g: 0.6784314, b: 0.5764706, a: 1}
+  - {r: 0.93333334, g: 0.93333334, b: 0.46666667, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - VEXED
+  - retro
+  - polyphorge
+  likes: 48

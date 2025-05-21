@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: FieryDreams
+  m_EditorClassIdentifier: 
+  title: fiery dreams
+  colors:
+  - {r: 0.14509805, g: 0.08235294, b: 0.20392157, a: 1}
+  - {r: 0.27450982, g: 0.09019608, b: 0.3254902, a: 1}
+  - {r: 0.4392157, g: 0.07450981, b: 0.33333334, a: 1}
+  - {r: 0.6431373, g: 0.09019608, b: 0.34901962, a: 1}
+  - {r: 0.8039216, g: 0.14509805, b: 0.38039216, a: 1}
+  - {r: 0.87058824, g: 0.33333334, b: 0.40784314, a: 1}
+  - {r: 0.9411765, g: 0.6392157, b: 0.5137255, a: 1}
+  - {r: 0.98039216, g: 0.89411765, b: 0.7254902, a: 1}
+  - {r: 1, g: 0.99607843, b: 0.9411765, a: 1}
+  tags:
+  - artist
+  - monoramp
+  - warm
+  - red
+  - sunset
+  likes: 101

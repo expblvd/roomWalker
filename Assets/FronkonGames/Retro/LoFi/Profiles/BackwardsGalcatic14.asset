@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BackwardsGalcatic14
+  m_EditorClassIdentifier: 
+  title: BackwardsGalcatic 14
+  colors:
+  - {r: 0.2901961, g: 0.25490198, b: 0.27450982, a: 1}
+  - {r: 0.23921569, g: 0.32156864, b: 0.49411765, a: 1}
+  - {r: 0.32941177, g: 0.57254905, b: 0.36078432, a: 1}
+  - {r: 0.3882353, g: 0.44705883, b: 0.49411765, a: 1}
+  - {r: 0.6039216, g: 0.3254902, b: 0.40392157, a: 1}
+  - {r: 0.3019608, g: 0.5372549, b: 0.57254905, a: 1}
+  - {r: 0.4509804, g: 0.36078432, b: 0.6117647, a: 1}
+  - {r: 0.54901963, g: 0.6392157, b: 0.3882353, a: 1}
+  - {r: 0.7019608, g: 0.47058824, b: 0.43529412, a: 1}
+  - {r: 0.39607844, g: 0.6745098, b: 0.59607846, a: 1}
+  - {r: 0.6392157, g: 0.57254905, b: 0.5176471, a: 1}
+  - {r: 0.67058825, g: 0.42745098, b: 0.6392157, a: 1}
+  - {r: 0.7607843, g: 0.6784314, b: 0.5058824, a: 1}
+  - {r: 0.69411767, g: 0.73333335, b: 0.70980394, a: 1}
+  tags:
+  - invert
+  - invertable
+  - invertipalette
+  likes: 35

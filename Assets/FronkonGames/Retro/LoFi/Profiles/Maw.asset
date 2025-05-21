@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Maw
+  m_EditorClassIdentifier: 
+  title: MAW
+  colors:
+  - {r: 0.16470589, g: 0, b: 0.16470589, a: 1}
+  - {r: 0, g: 0.32156864, b: 0.23529412, a: 1}
+  - {r: 0.79607844, g: 0.7176471, b: 0.19607843, a: 1}
+  - {r: 0.92156863, g: 0.92156863, b: 0.92156863, a: 1}
+  tags:
+  - clor
+  - color
+  - epic
+  - awesome
+  - sweet
+  - based
+  - hipster
+  - 420
+  - mayancalendar
+  - antarctica
+  - cool
+  likes: 48

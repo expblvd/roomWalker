@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f48727049a3da52419b373728e8d6197
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GbNeopolitan.asset
+  uploadId: 751688

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Sk16
+  m_EditorClassIdentifier: 
+  title: Sk 16
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.2509804, b: 0.10980392, a: 1}
+  - {r: 0.15294118, g: 0.12156863, b: 0.21176471, a: 1}
+  - {r: 0.6509804, g: 0.050980393, b: 0.050980393, a: 1}
+  - {r: 0.007843138, g: 0.6, b: 0.14509805, a: 1}
+  - {r: 0.15686275, g: 0.23921569, b: 0.52156866, a: 1}
+  - {r: 0.34901962, g: 0.16862746, b: 0.4, a: 1}
+  - {r: 0.2784314, g: 0.3254902, b: 0.4392157, a: 1}
+  - {r: 1, g: 0.3529412, b: 0, a: 1}
+  - {r: 0.4745098, g: 0.54509807, b: 0.5803922, a: 1}
+  - {r: 0.52156866, g: 0.83137256, b: 0.31764707, a: 1}
+  - {r: 0.9882353, g: 0.70980394, b: 0, a: 1}
+  - {r: 0.14117648, g: 0.5921569, b: 0.9882353, a: 1}
+  - {r: 0.92941177, g: 0.8980392, b: 0.2784314, a: 1}
+  - {r: 0.6, g: 0.8117647, b: 0.77254903, a: 1}
+  - {r: 0.92156863, g: 1, b: 0.8, a: 1}
+  tags:
+  - Isa
+  - Isa
+  - sk3ll
+  likes: 27

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Mupix9
+  m_EditorClassIdentifier: 
+  title: Mupix9
+  colors:
+  - {r: 0.11372549, g: 0.050980393, b: 0.16862746, a: 1}
+  - {r: 0.22352941, g: 0.08627451, b: 0.2, a: 1}
+  - {r: 0.14901961, g: 0.1882353, b: 0.26666668, a: 1}
+  - {r: 0.31764707, g: 0.14509805, b: 0.19215687, a: 1}
+  - {r: 0.4745098, g: 0.2509804, b: 0.2, a: 1}
+  - {r: 0.16862746, g: 0.48235294, b: 0.45490196, a: 1}
+  - {r: 0.61960787, g: 0.49411765, b: 0.20392157, a: 1}
+  - {r: 0.4, g: 0.64705884, b: 0.4509804, a: 1}
+  - {r: 0.74509805, g: 0.75686276, b: 0.5294118, a: 1}
+  tags:
+  - master
+  - masterpalette
+  - teal
+  - brown
+  - gold
+  - orange
+  - darkblue
+  - turquoise
+  - purple
+  - brown
+  - burgundy
+  likes: 56

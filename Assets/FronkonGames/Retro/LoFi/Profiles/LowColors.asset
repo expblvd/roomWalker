@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: LowColors
+  m_EditorClassIdentifier: 
+  title: Low Colors
+  colors:
+  - {r: 0.0627451, g: 0.03137255, b: 0.09803922, a: 1}
+  - {r: 0.23137255, g: 0.07058824, b: 0.28627452, a: 1}
+  - {r: 0.30980393, g: 0.08627451, b: 0.2, a: 1}
+  - {r: 0.25490198, g: 0.06666667, b: 0.54509807, a: 1}
+  - {r: 0.6, g: 0.19607843, b: 0.24705882, a: 1}
+  - {r: 0.64705884, g: 0.29411766, b: 0.2901961, a: 1}
+  - {r: 0.3137255, g: 0.4862745, b: 0.63529414, a: 1}
+  - {r: 0.7411765, g: 0.5529412, b: 0.47843137, a: 1}
+  - {r: 0.54901963, g: 0.7411765, b: 0.6627451, a: 1}
+  - {r: 0.89411765, g: 0.89411765, b: 0.89411765, a: 1}
+  tags:
+  - 10colors
+  - 10
+  - red
+  - blue
+  - 10
+  likes: 19

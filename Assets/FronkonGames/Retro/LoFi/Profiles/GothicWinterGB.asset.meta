@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7ac5592ea5620d49a4c63064963ff6f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GothicWinterGB.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 096a6f333edf5a6408acec7b0d26abb8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/WorkbenchPalette.asset
+  uploadId: 751688

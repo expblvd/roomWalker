@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CvD8
+  m_EditorClassIdentifier: 
+  title: CVD8
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.047058824, g: 0.1764706, b: 0.59607846, a: 1}
+  - {r: 0.47058824, g: 0.25490198, b: 0.12156863, a: 1}
+  - {r: 0.16862746, g: 0.45490196, b: 0.8862745, a: 1}
+  - {r: 0.8745098, g: 0.37254903, b: 0.35686275, a: 1}
+  - {r: 0.23137255, g: 0.8, b: 0.9647059, a: 1}
+  - {r: 0.95686275, g: 0.8117647, b: 0.3764706, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags: []
+  likes: 13

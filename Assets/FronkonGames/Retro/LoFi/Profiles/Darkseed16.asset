@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Darkseed16
+  m_EditorClassIdentifier: 
+  title: Darkseed 16
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.078431375, b: 0.09411765, a: 1}
+  - {r: 0, g: 0.1254902, b: 0.14117648, a: 1}
+  - {r: 0, g: 0.17254902, b: 0.21960784, a: 1}
+  - {r: 0.078431375, g: 0.20392157, b: 0.26666668, a: 1}
+  - {r: 0.26666668, g: 0.20392157, b: 0.26666668, a: 1}
+  - {r: 0.34509805, g: 0.23529412, b: 0.28235295, a: 1}
+  - {r: 0.42352942, g: 0.29803923, b: 0.26666668, a: 1}
+  - {r: 0.5019608, g: 0.3764706, b: 0.34509805, a: 1}
+  - {r: 0.42352942, g: 0.4392157, b: 0.42352942, a: 1}
+  - {r: 0.53333336, g: 0.5019608, b: 0.47058824, a: 1}
+  - {r: 0.6431373, g: 0.5803922, b: 0.5176471, a: 1}
+  - {r: 0.76862746, g: 0.6745098, b: 0.6117647, a: 1}
+  - {r: 0.84705883, g: 0.6901961, b: 0.65882355, a: 1}
+  - {r: 0.9254902, g: 0.83137256, b: 0.8156863, a: 1}
+  - {r: 0.9882353, g: 0.9882353, b: 0.9882353, a: 1}
+  tags:
+  - darkseed
+  - giger
+  - dark
+  - horror
+  - alien
+  likes: 81

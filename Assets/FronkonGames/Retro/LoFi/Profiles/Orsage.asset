@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Orsage
+  m_EditorClassIdentifier: 
+  title: Orsage
+  colors:
+  - {r: 0.16078432, g: 0.19215687, b: 0.12941177, a: 1}
+  - {r: 0.36862746, g: 0.3882353, b: 0.25882354, a: 1}
+  - {r: 0.7019608, g: 0.48235294, b: 0.13333334, a: 1}
+  - {r: 0.85490197, g: 0.627451, b: 0.4, a: 1}
+  tags:
+  - orange
+  - green
+  - dull
+  - retro
+  - oldschool
+  likes: 50

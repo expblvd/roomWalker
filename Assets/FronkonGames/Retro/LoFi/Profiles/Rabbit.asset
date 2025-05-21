@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  title: Rabbit
+  colors:
+  - {r: 0.23137255, g: 0.19607843, b: 0.2901961, a: 1}
+  - {r: 0.36078432, g: 0.38039216, b: 0.50980395, a: 1}
+  - {r: 0.30980393, g: 0.6431373, b: 0.64705884, a: 1}
+  - {r: 0.83137256, g: 0.45882353, b: 0.39215687, a: 1}
+  - {r: 0.6666667, g: 0.827451, b: 0.58431375, a: 1}
+  - {r: 0.9098039, g: 0.76862746, b: 0.59607846, a: 1}
+  - {r: 0.9254902, g: 0.9254902, b: 0.8784314, a: 1}
+  tags: []
+  likes: 84

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c72a24cbf7c4b8d449f7a9f88f5fa112
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Runtime/LoFi.Pass.cs
+  uploadId: 751688

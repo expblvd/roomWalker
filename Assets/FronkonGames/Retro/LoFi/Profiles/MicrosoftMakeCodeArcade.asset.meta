@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a0f8dd0751927c42812935dcdb0c89a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/MicrosoftMakeCodeArcade.asset
+  uploadId: 751688

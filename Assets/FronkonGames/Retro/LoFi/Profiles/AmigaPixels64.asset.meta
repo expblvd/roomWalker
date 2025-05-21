@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9dec2925c4ebf54b9f904755430b368
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/AmigaPixels64.asset
+  uploadId: 751688

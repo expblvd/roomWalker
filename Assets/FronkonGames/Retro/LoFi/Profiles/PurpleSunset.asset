@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: PurpleSunset
+  m_EditorClassIdentifier: 
+  title: Purple Sunset
+  colors:
+  - {r: 0.1882353, g: 0.05882353, b: 0.1882353, a: 1}
+  - {r: 0.31764707, g: 0.21568628, b: 0.31764707, a: 1}
+  - {r: 0.4509804, g: 0.37254903, b: 0.4509804, a: 1}
+  - {r: 0.58431375, g: 0.53333336, b: 0.58431375, a: 1}
+  - {r: 0.7176471, g: 0.6901961, b: 0.7176471, a: 1}
+  - {r: 0.9019608, g: 0.92941177, b: 0.4, a: 1}
+  - {r: 0.8901961, g: 0.9137255, b: 0.49019608, a: 1}
+  - {r: 0.8784314, g: 0.8980392, b: 0.5803922, a: 1}
+  - {r: 0.87058824, g: 0.88235295, b: 0.67058825, a: 1}
+  - {r: 0.85882354, g: 0.8666667, b: 0.7607843, a: 1}
+  - {r: 0.8509804, g: 0.8509804, b: 0.8509804, a: 1}
+  tags:
+  - yellow
+  - purple
+  - purplesunset
+  - sunset
+  likes: 9

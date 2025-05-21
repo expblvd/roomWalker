@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CarpetRose
+  m_EditorClassIdentifier: 
+  title: Carpet Rose
+  colors:
+  - {r: 0.23137255, g: 0.22352941, b: 0.16470589, a: 1}
+  - {r: 0.43529412, g: 0.25490198, b: 0.2627451, a: 1}
+  - {r: 0.39607844, g: 0.3647059, b: 0.2901961, a: 1}
+  - {r: 0.6431373, g: 0.41568628, b: 0.4, a: 1}
+  - {r: 0.6431373, g: 0.50980395, b: 0.3647059, a: 1}
+  - {r: 0.8392157, g: 0.7294118, b: 0.64705884, a: 1}
+  tags:
+  - Interprete me
+  - rose
+  - 6colour
+  - 6color
+  likes: 116

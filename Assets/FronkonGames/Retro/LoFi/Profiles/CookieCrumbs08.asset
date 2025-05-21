@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CookieCrumbs08
+  m_EditorClassIdentifier: 
+  title: Cookie Crumbs 08
+  colors:
+  - {r: 0.27450982, g: 0.07450981, b: 0.02745098, a: 1}
+  - {r: 0.44705883, g: 0.22745098, b: 0.043137256, a: 1}
+  - {r: 0.36862746, g: 0.12156863, b: 0.26666668, a: 1}
+  - {r: 0.5294118, g: 0.14117648, b: 0.14509805, a: 1}
+  - {r: 0.6156863, g: 0.34117648, b: 0.15294118, a: 1}
+  - {r: 0.6745098, g: 0.44313726, b: 0.30980393, a: 1}
+  - {r: 0.84313726, g: 0.59607846, b: 0.39215687, a: 1}
+  - {r: 0.85882354, g: 0.7490196, b: 0.4745098, a: 1}
+  tags:
+  - cookie
+  - cookies
+  - crumbs
+  - brown
+  - simple
+  likes: 11

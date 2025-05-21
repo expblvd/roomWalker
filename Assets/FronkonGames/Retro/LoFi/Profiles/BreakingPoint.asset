@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BreakingPoint
+  m_EditorClassIdentifier: 
+  title: Breaking Point
+  colors:
+  - {r: 0.019607844, g: 0.019607844, b: 0.019607844, a: 1}
+  - {r: 0.05490196, g: 0.05490196, b: 0.14901961, a: 1}
+  - {r: 0.21176471, g: 0.23529412, b: 0.47058824, a: 1}
+  - {r: 0.2901961, g: 0.43137255, b: 0.5529412, a: 1}
+  - {r: 0.41568628, g: 0.6156863, b: 0.5058824, a: 1}
+  - {r: 0.45490196, g: 0.25490198, b: 0.8352941, a: 1}
+  - {r: 0.5372549, g: 0.7019608, b: 0.5254902, a: 1}
+  - {r: 0.6784314, g: 0.5803922, b: 0.53333336, a: 1}
+  - {r: 0.7372549, g: 0.3372549, b: 0.9137255, a: 1}
+  - {r: 0.8, g: 0.5803922, b: 0.6392157, a: 1}
+  - {r: 0.76862746, g: 0.70980394, b: 0.627451, a: 1}
+  - {r: 0.70980394, g: 0.8156863, b: 0.6666667, a: 1}
+  - {r: 0.81960785, g: 0.80784315, b: 0.6784314, a: 1}
+  - {r: 0.9647059, g: 0.41568628, b: 0.9529412, a: 1}
+  - {r: 0.8862745, g: 0.90588236, b: 0.79607844, a: 1}
+  - {r: 0.9607843, g: 0.9607843, b: 0.98039216, a: 1}
+  tags:
+  - hueshift
+  - cold
+  - blue
+  - purple
+  - space
+  - dark
+  - contest
+  - 16
+  - 16colors
+  likes: 15

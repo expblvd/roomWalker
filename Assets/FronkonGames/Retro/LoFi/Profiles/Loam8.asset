@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Loam8
+  m_EditorClassIdentifier: 
+  title: LOAM 8
+  colors:
+  - {r: 0.2, g: 0.1882353, b: 0.17254902, a: 1}
+  - {r: 0.32156864, g: 0.19607843, b: 0.18431373, a: 1}
+  - {r: 0.4627451, g: 0.36078432, b: 0.25882354, a: 1}
+  - {r: 0.42352942, g: 0.3529412, b: 0.57254905, a: 1}
+  - {r: 0.60784316, g: 0.5921569, b: 0.41568628, a: 1}
+  - {r: 0.5254902, g: 0.54509807, b: 0.654902, a: 1}
+  - {r: 0.65882355, g: 0.7137255, b: 0.59607846, a: 1}
+  - {r: 0.7529412, g: 0.75686276, b: 0.7647059, a: 1}
+  tags:
+  - lowsaturation
+  - lowcontrast
+  - 8color
+  - soft
+  - pale
+  likes: 35

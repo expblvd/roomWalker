@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: 70sZine
+  m_EditorClassIdentifier: 
+  title: 70s Zine
+  colors:
+  - {r: 0.11764706, g: 0.08627451, b: 0.0627451, a: 1}
+  - {r: 0.12156863, g: 0.18431373, b: 0.28627452, a: 1}
+  - {r: 0.2509804, g: 0.34901962, b: 0.5294118, a: 1}
+  - {r: 0.3019608, g: 0.4862745, b: 0.44313726, a: 1}
+  - {r: 0.9764706, g: 0.31764707, b: 0.25882354, a: 1}
+  - {r: 0.5176471, g: 0.6392157, b: 0.64705884, a: 1}
+  - {r: 1, g: 0.56078434, b: 0.27450982, a: 1}
+  - {r: 0.9490196, g: 0.73333335, b: 0.30588236, a: 1}
+  - {r: 0.827451, g: 0.6784314, b: 0.54509807, a: 1}
+  - {r: 0.9882353, g: 0.80784315, b: 0.5529412, a: 1}
+  - {r: 0.9529412, g: 0.92941177, b: 0.8901961, a: 1}
+  tags:
+  - print
+  - vintage
+  likes: 139

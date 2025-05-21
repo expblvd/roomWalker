@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: DotpictDefault
+  m_EditorClassIdentifier: 
+  title: dotpict default
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.4117647, g: 0.18431373, b: 0.21176471, a: 1}
+  - {r: 0.105882354, g: 0.7176471, b: 0.28627452, a: 1}
+  - {r: 0.28627452, g: 0.30980393, b: 0.65882355, a: 1}
+  - {r: 1, g: 0.18039216, b: 0.20784314, a: 1}
+  - {r: 0.49411765, g: 0.49411765, b: 0.49411765, a: 1}
+  - {r: 0.003921569, g: 0.65882355, b: 1, a: 1}
+  - {r: 0.6901961, g: 0.40784314, b: 0.5647059, a: 1}
+  - {r: 1, g: 0.5764706, b: 0.12156863, a: 1}
+  - {r: 0.7764706, g: 0.9019608, b: 0.12156863, a: 1}
+  - {r: 1, g: 0.9490196, b: 0, a: 1}
+  - {r: 0.35686275, g: 0.88235295, b: 1, a: 1}
+  - {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 1}
+  - {r: 1, g: 0.627451, b: 0.65882355, a: 1}
+  - {r: 1, g: 0.9098039, b: 0.84705883, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags: []
+  likes: 16

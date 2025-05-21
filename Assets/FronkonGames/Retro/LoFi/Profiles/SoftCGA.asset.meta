@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1f17f89ac1e97e46a1cb62982d0c00a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SoftCGA.asset
+  uploadId: 751688

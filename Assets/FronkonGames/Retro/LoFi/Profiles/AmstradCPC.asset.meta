@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6525a6b44895a8c4e929a62274d6fc58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/AmstradCPC.asset
+  uploadId: 751688

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ScreenShake : MonoBehaviour
 {
@@ -8,8 +9,7 @@ public class ScreenShake : MonoBehaviour
     private Vector3 originalPos;
     private float shakeTimeRemaining = 0f;
 
-    void Start()
-    {
+    void Start() {
         originalPos = transform.localPosition;
     }
 
@@ -22,8 +22,7 @@ public class ScreenShake : MonoBehaviour
 
             shakeTimeRemaining -= Time.unscaledDeltaTime;
 
-            if (shakeTimeRemaining <= 0f)
-            {
+            if (shakeTimeRemaining <= 0f) {
                 transform.localPosition = originalPos;
             }
         }

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 295d6f041855cac438f6dbcd01a75ddd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Logcabin.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba0df6ad2744fe84c8a89271e72887d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SirensAtNight.asset
+  uploadId: 751688

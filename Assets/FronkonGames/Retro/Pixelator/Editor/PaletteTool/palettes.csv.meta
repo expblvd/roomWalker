@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb823a07fdac19b4ca16282ce17c75ae
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Editor/PaletteTool/palettes.csv
+  uploadId: 758029

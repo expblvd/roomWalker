@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f315c4669e4891542b4c46e7c6345148
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/RetrotronicDX.asset
+  uploadId: 751688

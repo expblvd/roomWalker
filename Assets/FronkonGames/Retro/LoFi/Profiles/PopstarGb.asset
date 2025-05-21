@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: PopstarGb
+  m_EditorClassIdentifier: 
+  title: popstar gb
+  colors:
+  - {r: 0.039215688, g: 0, b: 0.05882353, a: 1}
+  - {r: 0.23921569, g: 0.019607844, b: 0.34901962, a: 1}
+  - {r: 0.9098039, g: 0.2, b: 0.6862745, a: 1}
+  - {r: 0.96862745, g: 0.88235295, b: 0.7058824, a: 1}
+  tags:
+  - gb
+  likes: 15

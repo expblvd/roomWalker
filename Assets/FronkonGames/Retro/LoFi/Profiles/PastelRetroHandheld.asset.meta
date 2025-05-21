@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d37f5f2630bd1a4e92ded91eb46e24b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PastelRetroHandheld.asset
+  uploadId: 751688

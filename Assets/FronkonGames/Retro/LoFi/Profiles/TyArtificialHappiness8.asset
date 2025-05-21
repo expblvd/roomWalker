@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TyArtificialHappiness8
+  m_EditorClassIdentifier: 
+  title: TY Artificial Happiness 8
+  colors:
+  - {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 1}
+  - {r: 0.23921569, g: 0.1764706, b: 0.3019608, a: 1}
+  - {r: 0.41568628, g: 0.22352941, b: 0.2, a: 1}
+  - {r: 0.6039216, g: 0.3372549, b: 0.19607843, a: 1}
+  - {r: 0.3019608, g: 0.45490196, b: 0.6039216, a: 1}
+  - {r: 0.70980394, g: 0.36862746, b: 0.5254902, a: 1}
+  - {r: 0.8352941, g: 0.6039216, b: 0.2901961, a: 1}
+  - {r: 0.89411765, g: 0.827451, b: 0.827451, a: 1}
+  tags:
+  - cheerful
+  - limited
+  - versatile
+  - pop
+  - bright
+  - happy
+  likes: 28

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Fantshat8
+  m_EditorClassIdentifier: 
+  title: Fantshat8
+  colors:
+  - {r: 0.105882354, g: 0.09019608, b: 0.12941177, a: 1}
+  - {r: 0.07450981, g: 0.14117648, b: 0.23921569, a: 1}
+  - {r: 0.14509805, g: 0.19215687, b: 0.2509804, a: 1}
+  - {r: 0.18039216, g: 0.3254902, b: 0.25882354, a: 1}
+  - {r: 0.35686275, g: 0.4, b: 0.17254902, a: 1}
+  - {r: 0.3254902, g: 0.4392157, b: 0.54901963, a: 1}
+  - {r: 0.29803923, g: 0.7411765, b: 0.8509804, a: 1}
+  - {r: 0.5686275, g: 0.9490196, b: 0.8745098, a: 1}
+  tags:
+  - 8colors
+  - 8colors
+  - fantasy
+  - ghost
+  - spooky
+  - october
+  - blue
+  - green
+  - black
+  - items
+  likes: 31

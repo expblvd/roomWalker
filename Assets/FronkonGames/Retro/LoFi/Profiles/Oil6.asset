@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Oil6
+  m_EditorClassIdentifier: 
+  title: Oil 6
+  colors:
+  - {r: 0.15294118, g: 0.15294118, b: 0.26666668, a: 1}
+  - {r: 0.28627452, g: 0.3019608, b: 0.49411765, a: 1}
+  - {r: 0.54509807, g: 0.42745098, b: 0.6117647, a: 1}
+  - {r: 0.7764706, g: 0.62352943, b: 0.64705884, a: 1}
+  - {r: 0.9490196, g: 0.827451, b: 0.67058825, a: 1}
+  - {r: 0.9843137, g: 0.9607843, b: 0.9372549, a: 1}
+  tags: []
+  likes: 1862

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: St8Sapphire
+  m_EditorClassIdentifier: 
+  title: ST 8 Sapphire
+  colors:
+  - {r: 0.078431375, g: 0.078431375, b: 0.2, a: 1}
+  - {r: 0.09019608, g: 0.09019608, b: 0.3019608, a: 1}
+  - {r: 0.101960786, g: 0.12156863, b: 0.5019608, a: 1}
+  - {r: 0.16078432, g: 0.19607843, b: 0.6509804, a: 1}
+  - {r: 0.2, g: 0.2784314, b: 0.8, a: 1}
+  - {r: 0.3137255, g: 0.39215687, b: 0.8980392, a: 1}
+  - {r: 0.42745098, g: 0.53333336, b: 0.9490196, a: 1}
+  - {r: 0.6156863, g: 0.7058824, b: 0.9490196, a: 1}
+  tags:
+  - Prism Emerald
+  - artist
+  - blue
+  - sapphire
+  - thest1076
+  - st8
+  - aqua
+  likes: 30

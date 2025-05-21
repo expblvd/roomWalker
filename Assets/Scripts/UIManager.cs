@@ -5,6 +5,10 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
+    WeaponCombat weaponCombat;
+    public Color defenseActivatedColor;
+    public Color defenseDeactivatedColor;
+
     public GameObject mainCanvas;
     public GameObject deathCanvas;
 
@@ -16,6 +20,7 @@ public class UIManager : MonoBehaviour
 
     public Image leftArrow;
     public Image rightArrow;
+    public Image centerArrow;
 
     public TextMeshProUGUI coinCount;
     public TextMeshProUGUI roomCount;
@@ -32,18 +37,35 @@ public class UIManager : MonoBehaviour
     bool isShowingText;
 
     string currentToolTip;
-    
-    void Awake(){
+
+    void Awake() {
         Instance = this;
-        coinCount.text = "Coins: "+ FindFirstObjectByType<PlayerBehavior>().coins.ToString();
+        coinCount.text = "Coins: " + FindFirstObjectByType<PlayerBehavior>().coins.ToString();
         roomCount.text = "Room #" + roomNumber;
+        weaponCombat = FindFirstObjectByType<WeaponCombat>();
     }
 
-    void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.A)){
-            rightArrow.color = new Color(1,0,0,0.2f);
-            leftArrow.color = new Color(1,0,0,1);
+    void Update() {
+
+        if (weaponCombat.currentDirection == WeaponCombat.Direction.Left){
+            leftArrow.color = defenseActivatedColor;
+            rightArrow.color = defenseDeactivatedColor;
+            centerArrow.color = defenseDeactivatedColor;
+        }
+        if (weaponCombat.currentDirection == WeaponCombat.Direction.Center) {
+            leftArrow.color = defenseDeactivatedColor;
+            rightArrow.color = defenseDeactivatedColor;
+            centerArrow.color = defenseActivatedColor;
+        }
+        if (weaponCombat.currentDirection == WeaponCombat.Direction.Right) {
+            leftArrow.color = defenseDeactivatedColor;
+            rightArrow.color = defenseActivatedColor;
+            centerArrow.color = defenseDeactivatedColor;
+        }
+        /*
+        if (Input.GetKeyDown(KeyCode.A)) {
+            rightArrow.color = new Color(1, 0, 0, 0.2f);
+            leftArrow.color = new Color(1, 0, 0, 1);
             SFXManager.Instance.audioSource.PlayOneShot(click);
         }
 
@@ -75,7 +97,7 @@ public class UIManager : MonoBehaviour
         }else if(Input.GetKeyDown(KeyCode.I) && isInventoryOpen){
             isInventoryOpen = false;
             inventoryPanel.SetActive(false);
-        }
+        }*/
     }
 
     public void ShowToolTip(string tipString){

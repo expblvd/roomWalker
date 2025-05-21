@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: AJSPico8Palette
+  m_EditorClassIdentifier: 
+  title: A J s Pico 8 Palette
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.46666667, b: 0.2, a: 1}
+  - {r: 0.46666667, g: 0, b: 0.33333334, a: 1}
+  - {r: 0.46666667, g: 0.33333334, b: 0, a: 1}
+  - {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+  - {r: 0.2, g: 0.2, b: 0.6666667, a: 1}
+  - {r: 1, g: 0, b: 0.2, a: 1}
+  - {r: 0, g: 1, b: 0.33333334, a: 1}
+  - {r: 1, g: 0.6, b: 0, a: 1}
+  - {r: 0, g: 0.6666667, b: 1, a: 1}
+  - {r: 0.6666667, g: 0.6666667, b: 0.6666667, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
+  - {r: 0.6, g: 0.46666667, b: 1, a: 1}
+  - {r: 1, g: 0.6, b: 0.8, a: 1}
+  - {r: 1, g: 0.8, b: 0.6, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags: []
+  likes: 10

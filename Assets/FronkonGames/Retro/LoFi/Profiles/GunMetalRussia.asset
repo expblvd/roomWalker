@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GunMetalRussia
+  m_EditorClassIdentifier: 
+  title: Gun Metal Russia
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.13725491, g: 0.11372549, b: 0.14117648, a: 1}
+  - {r: 0.19215687, g: 0.09411765, b: 0.11764706, a: 1}
+  - {r: 0.3019608, g: 0.02745098, b: 0.11372549, a: 1}
+  - {r: 0.36078432, g: 0.1254902, b: 0.039215688, a: 1}
+  - {r: 0.24705882, g: 0.2627451, b: 0.22352941, a: 1}
+  - {r: 0.23529412, g: 0.23137255, b: 0.27058825, a: 1}
+  - {r: 0.4862745, g: 0.16470589, b: 0.09803922, a: 1}
+  - {r: 0.5803922, g: 0.23529412, b: 0.047058824, a: 1}
+  - {r: 0.4862745, g: 0.3019608, b: 0.09803922, a: 1}
+  - {r: 0.41960785, g: 0.2509804, b: 0.23921569, a: 1}
+  - {r: 0.33333334, g: 0.3882353, b: 0.3019608, a: 1}
+  - {r: 0.41960785, g: 0.4117647, b: 0.45490196, a: 1}
+  - {r: 0.6039216, g: 0.4, b: 0.32941177, a: 1}
+  - {r: 0.8, g: 0.6313726, b: 0.44313726, a: 1}
+  tags:
+  - weapons
+  - metal
+  - desaturated
+  - soft
+  - wood
+  - warm
+  - dark
+  likes: 82

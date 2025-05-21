@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 621d7693c8cb68143ab3e986e8b51842
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/AJSPico8Palette.asset
+  uploadId: 751688

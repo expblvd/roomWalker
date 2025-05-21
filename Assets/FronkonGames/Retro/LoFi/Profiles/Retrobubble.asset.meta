@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 586b8acb3313b2b4189b0c3da7fa9b2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Retrobubble.asset
+  uploadId: 751688

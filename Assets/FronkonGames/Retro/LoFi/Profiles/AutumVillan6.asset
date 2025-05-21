@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: AutumVillan6
+  m_EditorClassIdentifier: 
+  title: Autum Villan 6
+  colors:
+  - {r: 0.13725491, g: 0.1254902, b: 0.101960786, a: 1}
+  - {r: 0.28627452, g: 0.06666667, b: 0.10980392, a: 1}
+  - {r: 0.36862746, g: 0.3137255, b: 0.24705882, a: 1}
+  - {r: 0.5372549, g: 0.34509805, b: 0.38039216, a: 1}
+  - {r: 0.6627451, g: 0.57254905, b: 0.49019608, a: 1}
+  - {r: 0.9490196, g: 0.95686275, b: 0.9529412, a: 1}
+  tags:
+  - red
+  - brown
+  - maroon
+  - white
+  - pink
+  - tan
+  - dark
+  - fall
+  - autum
+  - villan
+  - 6
+  - chase
+  likes: 32

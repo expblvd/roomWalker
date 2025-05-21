@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f48b41825bda52943921b221028b2b96
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292731
+  packageName: 'Retro: Pixelator'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/Pixelator/Resources/Shaders/PixelationDiamond.hlsl
+  uploadId: 758029

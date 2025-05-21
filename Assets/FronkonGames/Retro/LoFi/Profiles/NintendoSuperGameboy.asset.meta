@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 003af72b14f7233429561d90dee1acad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NintendoSuperGameboy.asset
+  uploadId: 751688

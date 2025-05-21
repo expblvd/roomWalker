@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: LordOfTheMaps
+  m_EditorClassIdentifier: 
+  title: Lord of the Maps
+  colors:
+  - {r: 0.10980392, g: 0.0627451, b: 0.03529412, a: 1}
+  - {r: 0.15294118, g: 0.16078432, b: 0.0627451, a: 1}
+  - {r: 0.2627451, g: 0.1254902, b: 0.08235294, a: 1}
+  - {r: 0.32156864, g: 0.38039216, b: 0.2627451, a: 1}
+  - {r: 0.50980395, g: 0.24705882, b: 0.22745098, a: 1}
+  - {r: 0.5254902, g: 0.3882353, b: 0.3137255, a: 1}
+  - {r: 0.627451, g: 0.59607846, b: 0.47058824, a: 1}
+  - {r: 0.7529412, g: 0.75686276, b: 0.53333336, a: 1}
+  tags:
+  - map
+  - lotr
+  - 8colors
+  - lordoftherings
+  - fantasy
+  likes: 103

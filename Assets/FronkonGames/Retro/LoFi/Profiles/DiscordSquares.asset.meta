@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a545859f3ad8e95479cedfcb3accd1fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DiscordSquares.asset
+  uploadId: 751688

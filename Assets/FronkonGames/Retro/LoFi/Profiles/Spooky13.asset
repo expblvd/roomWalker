@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Spooky13
+  m_EditorClassIdentifier: 
+  title: spooky 13
+  colors:
+  - {r: 0.19607843, g: 0.16078432, b: 0.20784314, a: 1}
+  - {r: 0.26666668, g: 0.23137255, b: 0.23921569, a: 1}
+  - {r: 0.42352942, g: 0.27450982, b: 0.23137255, a: 1}
+  - {r: 0.34901962, g: 0.32156864, b: 0.32156864, a: 1}
+  - {r: 0.41960785, g: 0.22745098, b: 0.44313726, a: 1}
+  - {r: 0.42352942, g: 0.4509804, b: 0.2784314, a: 1}
+  - {r: 0.6039216, g: 0.34509805, b: 0.28235295, a: 1}
+  - {r: 0.52156866, g: 0.5647059, b: 0.32156864, a: 1}
+  - {r: 0.5686275, g: 0.33333334, b: 0.5254902, a: 1}
+  - {r: 0.69411767, g: 0.4862745, b: 0.3882353, a: 1}
+  - {r: 0.5529412, g: 0.5294118, b: 0.52156866, a: 1}
+  - {r: 0.73333335, g: 0.6156863, b: 0.40784314, a: 1}
+  - {r: 0.7176471, g: 0.69411767, b: 0.68235296, a: 1}
+  tags:
+  - octoberpalettecontest
+  - desaturated
+  - 13
+  - purple
+  - gray
+  - grey
+  - green
+  - yellow
+  - red
+  - brown
+  likes: 65

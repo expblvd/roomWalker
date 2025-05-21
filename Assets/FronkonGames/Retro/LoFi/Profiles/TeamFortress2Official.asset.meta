@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc8a76fb61a055b4dbd9200243745f1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TeamFortress2Official.asset
+  uploadId: 751688

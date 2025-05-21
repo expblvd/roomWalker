@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb57e77211705e8409d9f4d3b372f25c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Demo/Settings/LoFi Universal Render Pipeline
+    Asset.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f416b95c3395fdb4d918bf099b4895d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PureJoyGB.asset
+  uploadId: 751688

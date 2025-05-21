@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abc85e0cf7b2f6249b16c08388ac4b89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NannerMuffins.asset
+  uploadId: 751688

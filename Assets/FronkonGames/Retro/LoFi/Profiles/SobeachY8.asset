@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: SobeachY8
+  m_EditorClassIdentifier: 
+  title: SOBEACHY8
+  colors:
+  - {r: 0.8980392, g: 0.3254902, b: 0.53333336, a: 1}
+  - {r: 0.8980392, g: 0.49019608, b: 0.53333336, a: 1}
+  - {r: 0.3529412, g: 0.77254903, b: 0.8, a: 1}
+  - {r: 0.8980392, g: 0.62352943, b: 0.53333336, a: 1}
+  - {r: 0.42745098, g: 0.8352941, b: 0.8, a: 1}
+  - {r: 0.8980392, g: 0.8509804, b: 0.53333336, a: 1}
+  - {r: 0.7294118, g: 0.8352941, b: 0.8, a: 1}
+  - {r: 0.8901961, g: 0.8352941, b: 0.8, a: 1}
+  tags:
+  - pastel
+  - light
+  - sobeachy
+  likes: 281

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Ladyday14
+  m_EditorClassIdentifier: 
+  title: Ladyday14
+  colors:
+  - {r: 0.05882353, g: 0.023529412, b: 0.05490196, a: 1}
+  - {r: 0.11372549, g: 0.07450981, b: 0.10980392, a: 1}
+  - {r: 0.21960784, g: 0.101960786, b: 0.13725491, a: 1}
+  - {r: 0.34509805, g: 0.15294118, b: 0.21176471, a: 1}
+  - {r: 0.49411765, g: 0.19215687, b: 0.16470589, a: 1}
+  - {r: 0.6666667, g: 0.2, b: 0.1882353, a: 1}
+  - {r: 0.5764706, g: 0.28235295, b: 0.2509804, a: 1}
+  - {r: 0.7137255, g: 0.4, b: 0.3137255, a: 1}
+  - {r: 0.8, g: 0.35686275, b: 0.27058825, a: 1}
+  - {r: 0.81960785, g: 0.5372549, b: 0.4745098, a: 1}
+  - {r: 0.98039216, g: 0.5411765, b: 0.43137255, a: 1}
+  - {r: 0.98039216, g: 0.72156864, b: 0.41960785, a: 1}
+  - {r: 1, g: 0.8901961, b: 0.3647059, a: 1}
+  - {r: 1, g: 0.92156863, b: 0.87058824, a: 1}
+  tags:
+  - brown
+  - black
+  - red
+  - pink
+  - gold
+  - purple
+  - dark
+  - warm
+  - classy
+  - jazz
+  - singer
+  - billie
+  - holiday
+  - flower
+  - lady
+  - day
+  likes: 36

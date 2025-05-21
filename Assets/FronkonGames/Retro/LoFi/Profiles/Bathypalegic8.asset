@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Bathypalegic8
+  m_EditorClassIdentifier: 
+  title: bathypalegic 8
+  colors:
+  - {r: 0.07058824, g: 0.019607844, b: 0.23137255, a: 1}
+  - {r: 0.10980392, g: 0.07450981, b: 0.3882353, a: 1}
+  - {r: 0.14509805, g: 0.22352941, b: 0.50980395, a: 1}
+  - {r: 0.21176471, g: 0.41960785, b: 0.62352943, a: 1}
+  - {r: 0.36078432, g: 0.6156863, b: 0.7254902, a: 1}
+  - {r: 0.52156866, g: 0.7647059, b: 0.80784315, a: 1}
+  - {r: 0.7372549, g: 0.8901961, b: 0.87058824, a: 1}
+  - {r: 0.9490196, g: 0.9607843, b: 0.9411765, a: 1}
+  tags:
+  - 8
+  - monoramp
+  - blue
+  - aqua
+  - saturated
+  - ocean
+  likes: 17

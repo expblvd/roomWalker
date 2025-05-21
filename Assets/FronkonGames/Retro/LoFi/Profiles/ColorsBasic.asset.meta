@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: caa103617bfb37b43a1962cc53e660eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/ColorsBasic.asset
+  uploadId: 751688

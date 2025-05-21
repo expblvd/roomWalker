@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c66a1c39b6dc3be408856d045e949e2d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Resources/Shaders/RetroLoFi_URP.shader
+  uploadId: 751688

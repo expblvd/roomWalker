@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 806e2f31f8e45324899b5e8c26345f1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/ColdMorning32.asset
+  uploadId: 751688

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1e5ecb81aced1246a1546b4b314483f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Firestorm.asset
+  uploadId: 751688

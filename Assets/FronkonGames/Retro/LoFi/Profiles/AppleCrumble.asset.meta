@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f323aa2cf37e01740a6fec157e50fc57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/AppleCrumble.asset
+  uploadId: 751688

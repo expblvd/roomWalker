@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CobaltDesert7
+  m_EditorClassIdentifier: 
+  title: Cobalt Desert 7
+  colors:
+  - {r: 0.047058824, g: 0.023529412, b: 0.105882354, a: 1}
+  - {r: 0.09019608, g: 0.13333334, b: 0.36078432, a: 1}
+  - {r: 0.22745098, g: 0.17254902, b: 0.45882353, a: 1}
+  - {r: 0.7921569, g: 0.09019608, b: 0.3137255, a: 1}
+  - {r: 0.5764706, g: 0.13725491, b: 0.54509807, a: 1}
+  - {r: 0.9764706, g: 0.3019608, b: 0.08235294, a: 1}
+  - {r: 0.99607843, g: 0.59607846, b: 0.11764706, a: 1}
+  tags:
+  - cobalt
+  - desert
+  - warm
+  - cold
+  - orange
+  - red
+  - blue
+  likes: 40

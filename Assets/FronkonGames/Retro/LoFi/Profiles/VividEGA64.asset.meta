@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff81c1e22f62ffb4f83fec2adba75ada
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/VividEGA64.asset
+  uploadId: 751688

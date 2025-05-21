@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: ColdWar8
+  m_EditorClassIdentifier: 
+  title: Cold War 8
+  colors:
+  - {r: 0.2, g: 0.14117648, b: 0.13333334, a: 1}
+  - {r: 0.29803923, g: 0.18431373, b: 0.49803922, a: 1}
+  - {r: 0.22745098, g: 0.4, b: 0.6784314, a: 1}
+  - {r: 0.7882353, g: 0.35686275, b: 0.2509804, a: 1}
+  - {r: 0.22352941, g: 0.80784315, b: 0.7607843, a: 1}
+  - {r: 1, g: 0.60784316, b: 0.36862746, a: 1}
+  - {r: 0.9882353, g: 0.8745098, b: 0.4627451, a: 1}
+  - {r: 0.98039216, g: 1, b: 0.9764706, a: 1}
+  tags:
+  - cold
+  - war
+  - 8
+  likes: 67

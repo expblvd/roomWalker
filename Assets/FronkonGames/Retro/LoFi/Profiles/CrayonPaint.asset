@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CrayonPaint
+  m_EditorClassIdentifier: 
+  title: crayon paint
+  colors:
+  - {r: 0.08235294, g: 0.07058824, b: 0.07058824, a: 1}
+  - {r: 0.18431373, g: 0.41568628, b: 0.3647059, a: 1}
+  - {r: 0.627451, g: 0.1882353, b: 0.1882353, a: 1}
+  - {r: 0.4117647, g: 0.7490196, b: 0.16862746, a: 1}
+  - {r: 0.9137255, g: 0.5568628, b: 0.2, a: 1}
+  - {r: 0.61960787, g: 0.5882353, b: 0.60784316, a: 1}
+  - {r: 0.4627451, g: 0.6313726, b: 0.94509804, a: 1}
+  - {r: 0.9843137, g: 0.96862745, b: 0.7137255, a: 1}
+  tags: []
+  likes: 47

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: StellarWinds
+  m_EditorClassIdentifier: 
+  title: Stellar Winds
+  colors:
+  - {r: 0.08235294, g: 0, b: 0.101960786, a: 1}
+  - {r: 0.64705884, g: 0.79607844, b: 0.8509804, a: 1}
+  - {r: 0.9607843, g: 0.8901961, b: 0.8392157, a: 1}
+  - {r: 0.9843137, g: 0.9843137, b: 0.95686275, a: 1}
+  tags:
+  - highcontrast
+  - bright
+  - space
+  - stars
+  - 2bit
+  - 2buarypalettecontest
+  likes: 20

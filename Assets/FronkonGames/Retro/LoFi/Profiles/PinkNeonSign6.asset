@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: PinkNeonSign6
+  m_EditorClassIdentifier: 
+  title: Pink Neon Sign 6
+  colors:
+  - {r: 0.19215687, g: 0.23921569, b: 0.34901962, a: 1}
+  - {r: 0.31764707, g: 0.28627452, b: 0.41960785, a: 1}
+  - {r: 0.4392157, g: 0.3372549, b: 0.48235294, a: 1}
+  - {r: 0.61960787, g: 0.4, b: 0.58431375, a: 1}
+  - {r: 0.8, g: 0.46666667, b: 0.6862745, a: 1}
+  - {r: 0.9372549, g: 0.5294118, b: 0.7647059, a: 1}
+  tags:
+  - blue
+  - pink
+  - purple
+  - desert
+  - neon
+  - lilac
+  - dark
+  - light
+  - 6
+  - chase
+  - new
+  likes: 56

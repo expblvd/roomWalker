@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Florast8
+  m_EditorClassIdentifier: 
+  title: florast 8
+  colors:
+  - {r: 0.20784314, g: 0.12941177, b: 0.16470589, a: 1}
+  - {r: 0.23137255, g: 0.2509804, b: 0.2901961, a: 1}
+  - {r: 0.54509807, g: 0.26666668, b: 0.25882354, a: 1}
+  - {r: 0.6039216, g: 0.41960785, b: 0.32156864, a: 1}
+  - {r: 0.5019608, g: 0.61960787, b: 0.30980393, a: 1}
+  - {r: 0.627451, g: 0.5411765, b: 0.4745098, a: 1}
+  - {r: 0.47843137, g: 0.6313726, b: 0.6431373, a: 1}
+  - {r: 0.9764706, g: 0.89411765, b: 0.6862745, a: 1}
+  tags:
+  - forest
+  - plant
+  - nature
+  likes: 32

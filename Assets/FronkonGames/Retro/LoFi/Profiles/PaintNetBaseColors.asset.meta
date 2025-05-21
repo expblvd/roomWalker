@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06c716358ed4130489f57e5b7382f577
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PaintNetBaseColors.asset
+  uploadId: 751688

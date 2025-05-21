@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Pastel7
+  m_EditorClassIdentifier: 
+  title: Pastel7
+  colors:
+  - {r: 0.28235295, g: 0.29803923, b: 0.34117648, a: 1}
+  - {r: 0.5294118, g: 0.44313726, b: 0.50980395, a: 1}
+  - {r: 0.61960787, g: 0.6117647, b: 0.61960787, a: 1}
+  - {r: 0.92156863, g: 0.5529412, b: 0.58431375, a: 1}
+  - {r: 0.9607843, g: 0.74509805, b: 0.68235296, a: 1}
+  - {r: 1, g: 0.91764706, b: 0.7294118, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - Kartheek raj
+  - greypink
+  - pastel7
+  - fun
+  - aesthetic
+  - wow
+  - colors
+  - pink
+  - grey
+  likes: 64

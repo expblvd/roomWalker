@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dea5f66658ded8943a880e408cc46a7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DimbloomCORE.asset
+  uploadId: 751688

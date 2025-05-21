@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TMascTuesday
+  m_EditorClassIdentifier: 
+  title: T Masc Tuesday
+  colors:
+  - {r: 0.26666668, g: 0.21960784, b: 0.627451, a: 1}
+  - {r: 0.7372549, g: 0.21176471, b: 0.45490196, a: 1}
+  - {r: 0.47058824, g: 0.6039216, b: 0.8666667, a: 1}
+  - {r: 0.627451, g: 0.8039216, b: 0.85490197, a: 1}
+  tags:
+  - blue
+  - lgbt
+  - 2buarypalettecontest
+  likes: 21

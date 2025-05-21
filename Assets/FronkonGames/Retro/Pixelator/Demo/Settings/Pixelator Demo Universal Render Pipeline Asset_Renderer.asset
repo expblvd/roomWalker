@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5719915692300987775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc838fda3a3f934e9954a0f7ad96dbd, type: 3}
+  m_Name: Pixelator
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    intensity: 1
+    pixelationMode: 0
+    pixelSize: 0.75
+    screenAspectRatio: 1
+    aspectRatio: 1
+    pixelScale: {x: 1, y: 1}
+    radius: 0.5
+    background: {r: 0, g: 0, b: 0, a: 1}
+    threads: 3
+    chromaticAberrationIntensity: 1.56
+    chromaticAberrationOffset: {x: 1, y: 2, z: -1}
+    gradientIntensity: 0
+    gradient:
+      serializedVersion: 2
+      key0: {r: 0.4, g: 0, b: 0.4, a: 1}
+      key1: {r: 0.5019608, g: 0, b: 0.5019608, a: 1}
+      key2: {r: 0.74509805, g: 0.16078432, b: 0.9254902, a: 0}
+      key3: {r: 0.84705883, g: 0.5882353, b: 1, a: 0}
+      key4: {r: 0.9372549, g: 0.73333335, b: 1, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 16384
+      ctime2: 32768
+      ctime3: 49151
+      ctime4: 65535
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_ColorSpace: -1
+      m_NumColorKeys: 5
+      m_NumAlphaKeys: 2
+    luminanceMin: 0
+    luminanceMax: 1
+    gradientMappingMode: 0
+    gradientCIELabSamples: 16
+    gradientApplyLuminance: 1
+    bevel: 2.6
+    ditherIntensity: 1
+    ditherPatternScale: 4
+    ditherThresholdScale: 0.75
+    ditherColorSteps: 8
+    posterizeIntensity: 1
+    posterizeRGBSteps: {x: 24, y: 24, z: 24}
+    posterizeLuminanceSteps: 18
+    posterizeHSVSteps: {x: 24, y: 24, z: 24}
+    posterizeGamma: 0.85
+    filtersIntensity: 0
+    sepiaIntensity: 0
+    coolBlueIntensity: 0
+    warmFilterIntensity: 0
+    invertColorIntensity: 0
+    hudsonIntensity: 0
+    hefeIntensity: 0
+    xproIntensity: 0
+    riseIntensity: 0
+    toasterIntensity: 0
+    irFilterIntensity: 0
+    thermalFilterIntensity: 0
+    duotoneIntensity: 0
+    duotoneColorA: {r: 0.1, g: 0.2, b: 0.5, a: 1}
+    duotoneColorB: {r: 0.9, g: 0.9, b: 0.2, a: 1}
+    nightVisionIntensity: 0
+    popArtIntensity: 0
+    blueprintIntensity: 0
+    blueprintEdgeColor: {r: 0.6, g: 0.8, b: 1, a: 1}
+    blueprintBackgroundColor: {r: 0.1, g: 0.2, b: 0.4, a: 1}
+    blueprintEdgeThreshold: 0.1
+    brightness: 0
+    contrast: 1
+    gamma: 1
+    hue: 0
+    saturation: 1
+    affectSceneView: 0
+    whenToInsert: 550
+    forceGradientTextureUpdate: 1
+    gradientTexture: {fileID: 0}
+    gradientLuminanceMin: 0
+    gradientLuminanceMax: 1
+    filtersEnable: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+  m_Name: Pixelator Demo Universal Render Pipeline Asset_Renderer
+  m_EditorClassIdentifier: 
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: 573620ae32aec764abd4d728906d2587, type: 3}
+    probeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959, type: 3}
+  probeVolumeResources:
+    probeVolumeDebugShader: {fileID: 0}
+    probeVolumeFragmentationDebugShader: {fileID: 0}
+    probeVolumeOffsetDebugShader: {fileID: 0}
+    probeVolumeSamplingDebugShader: {fileID: 0}
+    probeSamplingDebugMesh: {fileID: 0}
+    probeSamplingDebugTexture: {fileID: 0}
+    probeVolumeBlendStatesCS: {fileID: 0}
+  m_RendererFeatures:
+  - {fileID: -5719915692300987775}
+  m_RendererFeatureMap: 819237b7fbc69eb0
+  m_UseNativeRenderPass: 0
+  xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
+  postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
+  m_AssetVersion: 2
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 2
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 0
+  m_CopyDepthMode: 1
+  m_DepthAttachmentFormat: 0
+  m_DepthTextureFormat: 0
+  m_AccurateGbufferNormals: 0
+  m_IntermediateTextureMode: 1

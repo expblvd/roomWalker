@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: RgrPapercut4
+  m_EditorClassIdentifier: 
+  title: RGR Papercut4
+  colors:
+  - {r: 0.047058824, g: 0.047058824, b: 0.050980393, a: 1}
+  - {r: 0.24705882, g: 0.23921569, b: 0.2784314, a: 1}
+  - {r: 0.54509807, g: 0.49019608, b: 0.4509804, a: 1}
+  - {r: 0.8039216, g: 0.69803923, b: 0.48235294, a: 1}
+  tags:
+  - paper
+  - ink
+  - charcoal
+  - grey
+  - gameboy
+  - lospec
+  - retro
+  - handheld
+  - monochromatic
+  - simple
+  - vintage
+  likes: 70

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BuzzyBees
+  m_EditorClassIdentifier: 
+  title: Buzzy Bees
+  colors:
+  - {r: 0.11764706, g: 0.03529412, b: 0, a: 1}
+  - {r: 1, g: 0.78039217, b: 0.105882354, a: 1}
+  - {r: 1, g: 0.8980392, b: 0.15686275, a: 1}
+  - {r: 1, g: 0.96862745, b: 0.67058825, a: 1}
+  tags:
+  - yellow
+  - honey
+  - bees
+  - brown
+  - 4
+  - 2bit
+  likes: 29

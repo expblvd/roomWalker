@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GbDragonfruit
+  m_EditorClassIdentifier: 
+  title: GB dragonfruit
+  colors:
+  - {r: 0, g: 0.34509805, b: 0, a: 1}
+  - {r: 0.972549, g: 0.21960784, b: 0, a: 1}
+  - {r: 0.972549, g: 0.6431373, b: 0.7529412, a: 1}
+  - {r: 0.8980392, g: 0.98039216, b: 0.654902, a: 1}
+  tags:
+  - simple
+  - gameboy
+  - fruit
+  - sweet
+  - sour
+  likes: 11

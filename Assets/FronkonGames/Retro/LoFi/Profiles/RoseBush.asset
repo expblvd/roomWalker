@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: RoseBush
+  m_EditorClassIdentifier: 
+  title: Rose Bush
+  colors:
+  - {r: 0.078431375, g: 0.0627451, b: 0.07450981, a: 1}
+  - {r: 0.23137255, g: 0.09019608, b: 0.14509805, a: 1}
+  - {r: 0.14117648, g: 0.32156864, b: 0.23137255, a: 1}
+  - {r: 0.4509804, g: 0.09019608, b: 0.1764706, a: 1}
+  - {r: 0.101960786, g: 0.47843137, b: 0.24313726, a: 1}
+  - {r: 0.7058824, g: 0.1254902, b: 0.16470589, a: 1}
+  - {r: 0.8745098, g: 0.24313726, b: 0.13725491, a: 1}
+  - {r: 0.34901962, g: 0.75686276, b: 0.20784314, a: 1}
+  - {r: 0.5529412, g: 0.8745098, b: 0.23137255, a: 1}
+  tags:
+  - red
+  - green
+  - crimson
+  - plum
+  - forest
+  - rose
+  - roses
+  - tree
+  likes: 17

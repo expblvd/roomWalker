@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Bauhaus
+  m_EditorClassIdentifier: 
+  title: Bauhaus
+  colors:
+  - {r: 0.101960786, g: 0.08627451, b: 0.08627451, a: 1}
+  - {r: 0.30980393, g: 0.09411765, b: 0.41960785, a: 1}
+  - {r: 0.5686275, g: 0.078431375, b: 0.30588236, a: 1}
+  - {r: 0.91764706, g: 0.12156863, b: 0.14509805, a: 1}
+  - {r: 0.24313726, g: 0.3019608, b: 0.7058824, a: 1}
+  - {r: 0.6784314, g: 0.42745098, b: 0.21568628, a: 1}
+  - {r: 0.94509804, g: 0.7921569, b: 0, a: 1}
+  - {r: 0.9254902, g: 0.8666667, b: 0.74509805, a: 1}
+  tags:
+  - bauhaus
+  - primary
+  - red
+  - yellow
+  - blue
+  - 3bit
+  - artist
+  likes: 68

@@ -1,0 +1,16 @@
+{
+  "name": "com.fronkongames.retro.crttv",
+  "version": "2.0.2",
+  "displayName": "Retro: CRT TV",
+  "description": "The most configurable old TV effect you'll ever find.",
+  "unity": "2022.3",
+  "unityRelease": "45f1",
+  "dependencies":  {  },
+  "keywords": [ "unity", "retro", "movie", "vintage", "movies", "crt", "tv", "old", "arcade", "monitor" ],
+  "author":
+  {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/store/retro/"
+  }
+}

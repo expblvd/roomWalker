@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ad9bdff26d3e8543a024881f9b233bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 1.0.0
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PokemonSGB.asset
+  uploadId: 751688
