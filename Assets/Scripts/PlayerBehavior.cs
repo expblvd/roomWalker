@@ -27,7 +27,7 @@ public class PlayerBehavior : EntityStats
     public int level;
 
     public float walkSpeed;
-    
+
     public Image heartIcon;
     public Sprite[] hearts;
     public AudioClip blockSound;
@@ -50,7 +50,7 @@ public class PlayerBehavior : EntityStats
     {
         if(dead) return;
         if(Input.GetKeyDown(KeyCode.E)){
-            
+
             if(Physics.Raycast(cam.transform.position, cam.transform.forward, out RaycastHit hit)){
                 if(hit.collider.gameObject.tag == "Interactable"){
                     hit.collider.gameObject.GetComponent<InteractableObject>().Interact();
@@ -91,7 +91,7 @@ public class PlayerBehavior : EntityStats
     public void PlayerMove(){
         StartCoroutine(MoveToNextRoom());
     }
-        
+
     IEnumerator MoveToNextRoom(){
         Vector3 initialPosition = transform.position;
         float timeElapsed = 0f;
@@ -112,7 +112,7 @@ public class PlayerBehavior : EntityStats
 
     public void ShopTime(Vector3 customerPosition){
         StartCoroutine(MoveToShop(customerPosition));
-    } 
+    }
 
     IEnumerator MoveToShop(Vector3 customerPosition){
         Vector3 initialPosition = transform.position;
@@ -162,7 +162,9 @@ public class PlayerBehavior : EntityStats
 
     void Die(){
         if(currentHealth <= 0){
-            FindFirstObjectByType<EnemyBase>().StopAllCoroutines();
+            if (FindFirstObjectByType<EnemyBase>() != null){
+                FindFirstObjectByType<EnemyBase>().StopAllCoroutines();
+            }
             UIManager.Instance.ShowDieScreen();
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;

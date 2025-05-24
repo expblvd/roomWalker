@@ -35,15 +35,13 @@ public class ScreenRat : MonoBehaviour {
         audioSource.clip = mouseSqueaking;
         audioSource.loop = true;
         audioSource.Play();
+        StartCoroutine(Bite());
     }
 
     void Update() {
         currentFrameHorizontal = Input.GetAxis("Mouse X");
         float mouseXDelta = currentFrameHorizontal - lastFrameHorizontal;
         text.text = "mouse x delta: " + Mathf.Abs(mouseXDelta).ToString();
-        if (mouseXDelta != 0f) {
-            Debug.Log("moving mouse!");
-        }
         lastFrameHorizontal = currentFrameHorizontal;
 
         if (Mathf.Abs(mouseXDelta) > 10) {
@@ -73,6 +71,18 @@ public class ScreenRat : MonoBehaviour {
                 Debug.Log("landed this should only show once");
             }
             landed = true;
+        }
+    }
+
+    IEnumerator Bite() {
+        while (!falling) {
+            for (int i = 0; i < 4; i++) {
+                yield return new WaitForSeconds(1f);
+                if (falling) break;
+                Debug.Log("biting");
+            }
+            if (falling) break;
+            FindFirstObjectByType<PlayerBehavior>().TakeDamage();
         }
     }
 
